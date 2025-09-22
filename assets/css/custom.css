@@ -1,0 +1,97 @@
+/* new customized styles added by Chenghao Wang */
+
+/* --- People page layout --- */
+.people-list {                 /* stacks each person with nice gaps */
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.person {
+  display: grid;
+  grid-template-columns: 150px 1fr;  /* photo | text */
+  column-gap: 1.25rem;
+  align-items: start;                 /* top-align text with image */
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid #eee;      /* divider like your example */
+}
+
+.person-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;                  /* crop to fill */
+  border-radius: 50%;                 /* 8px; set to 50% if you want circles */
+  display: block;
+}
+
+.person-name {
+  margin: 0 0 .25rem 0;
+  font-weight: 700;
+}
+
+.person-meta {                        /* degree line */
+  margin: 0 0 .25rem 0;
+}
+
+.person-links {                       /* email / CV / office line */
+  margin: 0 0 .5rem 0;
+}
+
+.person-links a { text-decoration: underline; }
+
+@media (max-width: 560px) {
+  .person { grid-template-columns: 96px 1fr; }
+  .person-photo { width: 96px; height: 96px; }
+}
+
+
+
+/* ---- Publications ---- */
+.pub-legend { font-size:.95rem; color:#333; margin:.5rem 0 1rem; }
+.mentee { color:#0a7c2f; font-weight:600; }                  /* students mentored */
+.me { font-weight:700; text-decoration:none; }               /* your name: bold, no underline */
+
+/* Section headings */
+.pub-sec, .pub-year { color:#8B0000; font-weight:700; margin:1.5rem 0 .75rem; }
+
+/* One publication block = paper line + media line, separated from neighbors */
+.pub { margin:0 0 1rem 0; padding:0 0 .9rem 0; border-bottom:1px solid #eee; }
+
+/* The paper line: manual numbers aligned like an ordered list */
+.pub-line { padding-left:4ch; text-indent:-4ch; }            /* adjust to 5ch if you ever use e.g. "R123." */
+.pub-num { font-weight:700; }                                 /* "76." "C76." etc. */
+.pub-title { font-style: italic; }                            /* journal title */
+.pub-links a { text-decoration: underline; }
+
+/* Media coverage sits under the paper line, still inside the same block */
+.media { margin-left:4ch; margin-top:.25rem; }
+.media strong { font-weight:700; }
+.media a { text-decoration: underline; }
+
+
+
+/* News list */
+.news-list {
+  display: grid;
+  row-gap: 1.2rem;
+}
+.news-item {
+  display: grid;
+  grid-template-columns: 8rem 1fr; /* left column width for date */
+  column-gap: 1rem;
+  align-items: start;
+}
+.news-date {
+  font-weight: 700;
+  white-space: nowrap;
+}
+.news-body {
+  line-height: 1.45;
+}
+.news-body p { margin: 0; } /* keep each item compact */
+
+.news-sep {
+  border: 0;
+  border-top: 1px solid #e5e7eb;  /* light gray line */
+  margin: 1rem 0;                 /* space around the rule */
+}
