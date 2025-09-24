@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "People"
 permalink: /people/
 author_profile: false   # keeps the right sidebar (or true)

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Physics-Based Multiscale Urban Climate Modeling"
 permalink: /research/multiscale-urban-climate-modeling/
 author_profile: true
