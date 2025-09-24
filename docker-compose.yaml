@@ -1,9 +1,35 @@
+# original code:
+
+# services:
+#   jekyll-site:
+#     image: jekyll-site
+#     build: .
+#     volumes: [ .:/usr/src/app ]
+#     ports: [ 4000:4000 ]
+#     user: 1000:1000
+#     environment: [ JEKYLL_ENV=docker ]
+#     command: jekyll serve -H 0.0.0.0 -w --config _config.yml,_config_docker.yml
+
+# new code by Chenghao Wang:
 services:
   jekyll-site:
     image: jekyll-site
     build: .
-    volumes: [ .:/usr/src/app ]
-    ports: [ 4000:4000 ]
-    user: 1000:1000
-    environment: [ JEKYLL_ENV=docker ]
-    command: jekyll serve -H 0.0.0.0 -w --config _config.yml,_config_docker.yml
+    working_dir: /usr/src/app
+    volumes:
+      - .:/usr/src/app:cached     # keep it a bind mount
+    ports:
+      - "4000:4000"
+      - "35729:35729"             # LiveReload port
+    environment:
+      - JEKYLL_ENV=docker
+      - JEKYLL_FORCE_POLLING=1     # extra nudge for Windows/WSL
+    # (optional) comment out the user line if permissions get weird with the image you build
+    # user: 1000:1000
+    command: >
+      bundle exec jekyll serve
+      --host 0.0.0.0
+      --livereload
+      --force_polling
+      --incremental
+      --config _config.yml,_config_docker.yml

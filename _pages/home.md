@@ -14,14 +14,24 @@ Welcome to the **Sustainable URban Futures (SURF) Lab** in the
 [Department of Geography and Environmental Sustainability](https://www.ou.edu/ags/geography)
 at the [University of Oklahoma](https://www.ou.edu).
 
-Global cities in a changing climate face numerous environmental challenges, such as
-exacerbated heat stress, frequent air-pollution episodes, degraded water quality, and
-increased energy and water use. **Dr. Chenghao Wang** and his SURF Lab study the
-mechanisms of urban environments, their interactions with regional and global climates,
-and their impacts on building energy use, greenhouse gas emissions, and public health
-using numerical models and data analytics. Through our interdisciplinary research, we
-aim to advance understanding of the urban environment and support more sustainable urban
-development under global environmental changes.
+Global cities in a changing climate face escalating environmental challenges, including 
+intensified heat stress, more frequent air pollution episodes, shifting precipitation patterns, 
+and rising demands for energy and resources.
+**Dr. Chenghao Wang** and the SURF Lab investigate the mechanisms of urban environments, 
+their interactions with regional and global climate systems, 
+and their interconnected impacts on energy use, emissions, and planetary health. 
+Using both advanced physics-based numerical models and data-driven analytical approaches, 
+our work emphasizes the characterization of environmental stressors and hazards 
+as well as the design and assessment of mitigation and adaptation strategies.
+
+Through our interdisciplinary research, we aim to advance fundamental understanding of 
+the complex urban systems and support the development of more sustainable and resilient 
+cities under global environmental change. 
+Some key research questions that motivate our work include:
+- In what ways do urban environments amplify or dampen regional and global climate and weather impacts?
+- What effects do urban heat mitigation strategies have on hydrometeorological conditions across scales?
+- How will urban systems, including both infrastructure and people, be affected by and adapt to changing climate and weather extremes?
+- What roles do inter- and intra-city interactions play in shaping the spread and influence of environmental stressors and extremes?
 
 ---
 
@@ -55,7 +65,7 @@ Department of Geography and Environmental Sustainability (DGES), and degree prog
        alt="San Francisco skyline"
        style="width:100%; display:block; object-fit:cover;">
   <figcaption style="color:#666; margin-top:.5rem; display:inline-block; margin-left:auto; margin-right:auto;">
-    San Francisco — credit: Chenghao Wang (Oct 2023)
+    San Francisco — credit: Chenghao Wang (Jun 2022)
   </figcaption>
 </figure>
 
