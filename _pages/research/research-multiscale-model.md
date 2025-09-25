@@ -36,10 +36,10 @@ author_profile: true
   text-align: center;
 }
 .fig img {
-  max-width: 100%;
+  max-width: var(--fig-width, 100%); /* default 100% */
   height: auto;
-  border: 1px solid #f0e5d9;
-  border-radius: 8px;
+  /* border: 1px solid #f0e5d9;*/
+  /* border-radius: 8px;*/
 }
 .fig-cap {
   font-size: .8rem;
@@ -60,16 +60,16 @@ author_profile: true
 
 ## Urban Canopy Models
 
-Despite advances in land surface modeling, most global and regional climate models still oversimplify the heterogeneous fabric of cities. To address this gap, we have developed **urban canopy models** (UCMs) that more realistically simulate hydrometeorological conditions across multiple scales. Our work has introduced modules for urban vegetation, hydrological processes, pedestrian thermal comfort, and the exchange of heat, moisture, and carbon between buildings and the atmosphere.
+Despite advances in land surface modeling, most global and regional climate models still oversimplify the heterogeneous fabric of cities. To address this gap, we have developed **urban canopy models** (UCMs) that more realistically simulate hydrometeorological conditions across multiple scales ([Wang et al., 2025](https://doi.org/10.1029/2025MS005053)). Our work has introduced modules for urban vegetation, hydrological processes, pedestrian thermal comfort, and the exchange of heat, moisture, and carbon between buildings and the atmosphere.
 
-One major innovation is the inclusion of street trees, a component still missing in most large-scale models. We developed the Arizona State University Single-Layer Urban Canopy Model (ASLUM) v3.1 (Wang et al., 2021), which enables simulations of radiative shading, canopy transmittance, evapotranspiration, and root water uptake of urban trees. Both ASLUM v3.1 and its predecessor v2.0 have been incorporated into the second international urban land surface model intercomparison project.
+One major innovation is the inclusion of street trees, a component still missing in most large-scale models. We developed the Arizona State University Single-Layer Urban Canopy Model (ASLUM) v3.1 ([Wang et al., 2021](https://doi.org/10.1016/j.buildenv.2021.107593)), which enables simulations of radiative shading, canopy transmittance, evapotranspiration, and root water uptake of urban trees. Both ASLUM v3.1 and its predecessor v2.0 have been incorporated into the second international urban land surface model intercomparison project.
 
 <div class="fig">
-  <img src="/images/research/multiscale/aslum_combined.png" alt="ASLUM schematic and ASLUM-Hydro">
-  <div class="fig-cap">Schematic of ASLUM tree representation and ASLUM-Hydro.</div>
+  <img src="/images/research figs/ASLUM illustration.png" alt="ASLUM and ASLUM-Hydro schematic">
+  <div class="fig-cap">Schematic of (a) ASLUM v3.1 with urban trees and resistance networks of energy transport and (b) ASLUM-Hydro with major hydrological processes</div>
 </div>
 
-We have also advanced the representation of hydrological processes in urban climate modeling through a multi-parameterization approach that improves canopy interception, surface runoff, soil moisture dynamics, and groundwater drainage. Evaluations with both short-term and long-term simulations show improvements in reproducing near-surface hydrometeorological conditions and surface energy fluxes. These UCM developments are now being coupled into the **Weather Research and Forecasting (WRF) model** to improve urban climate modeling and assessments of nature-based solutions.
+We have also advanced the representation of hydrological processes in urban climate modeling through a multi-parameterization approach that improves canopy interception, surface runoff, soil moisture dynamics, and groundwater drainage (ASLUM-Hydro; [Huang et al., 2025](https://doi.org/10.1016/j.buildenv.2025.113567)). Evaluations with both short-term and long-term simulations show improvements in reproducing near-surface hydrometeorological conditions and surface energy fluxes. These UCM developments are now being coupled into the **Weather Research and Forecasting (WRF) model** to improve urban climate modeling and assessments of nature-based solutions.
 
 ## Urban Heat Mitigation Strategies
 
@@ -77,22 +77,32 @@ As cities continue to expand, urban residents face heightened risks of heat stre
 
 With our UCMs, we have quantified how the cooling and moisturizing effects of trees vary with traits such as crown size and soil moisture availability, and how these processes affect pedestrian thermal comfort. 
 
-<div class="fig">
-  <img src="/images/research/multiscale/ucm_irrigation_combined.png" alt="Tree cooling and irrigation cooling results">
-  <div class="fig-cap">Offline UCM tree cooling experiments and CONUS-wide irrigation cooling effects.</div>
+<div class="fig" style="--fig-width: 60%;">
+  <img src="/images/research figs/tree cooling illustration.png" alt="Cooling effect of urban trees">
+  <div class="fig-cap">Neighborhood-scale cooling effect of urban trees governed by (a) tree crown leaf area index (LAI) and (b) soil moisture</div>
 </div>
 
-At larger scales, we conducted the first continental-scale evaluation of tree shade cooling effects on urban hydroclimates and the first nationwide assessment of urban irrigation-driven cooling, both covering the entire contiguous U.S. From these results, we derived a practical metric, **urban water capacity**, which quantifies the irrigation water required to achieve a one-degree reduction in urban temperature.
+At larger scales, we conducted the first continental-scale evaluation of tree shade cooling effects on urban hydroclimates ([Wang et al., 2018](https://doi.org/10.1029/2018EF000891)) and the first nationwide assessment of urban irrigation-driven cooling, both covering the entire contiguous U.S. From these results, we derived a practical metric, **urban water capacity**, which quantifies the irrigation water required to achieve a one-degree reduction in urban temperature ([Wang et al., 2019](https://doi.org/10.1016/j.compenvurbsys.2019.101397)).
+
+<div class="fig" style="--fig-width: 75%;">
+  <img src="/images/research figs/Irrigation_cooling_illustration.png" alt="Cooling effect of urban irrigation">
+  <div class="fig-cap">Continental-scale cooling effect of urban green space irrigation</div>
+</div>
 
 ## Turbulent Transport and Dispersion
 
 The complex geometry of cities such as streets, buildings, and vegetation poses challenges for predicting the dispersion of air pollutants. Traditional analytical models often struggle to resolve flow fields influenced by urban infrastructure, while computational fluid dynamics approaches are often too resource-intensive for large domains and various scenarios.
 
-To bridge this gap, we developed an integrative modeling framework that couples **large-eddy simulation (LES)** with a **Lagrangian stochastic particle dispersion model (LSM)**. This approach allows us to efficiently quantify how urban form and vegetation shape flow fields, pollutant dispersion, and the footprint of sensor measurements. For example, we have shown how variations in building geometry and street trees alter turbulence and distribution of traffic-emitted pollution.
+To bridge this gap, we developed an integrative modeling framework that couples **large-eddy simulation (LES)** with a **Lagrangian stochastic particle dispersion model (LSM)**. This approach allows us to efficiently quantify how urban form and vegetation shape flow fields, pollutant dispersion, and the footprint of sensor measurements. For example, we have shown how variations in building geometry and street trees alter turbulence and distribution of traffic-emitted pollution ([Wang et al., 2018](https://doi.org/10.1016/j.buildenv.2018.09.014)).
 
-<div class="fig">
-  <img src="/images/research/multiscale/les_combined.png" alt="LES-Dispersion with trees and WWTP methane plume">
-  <div class="fig-cap">LES–LSM simulations of urban dispersion: street-tree effects and methane plumes from wastewater treatment plants.</div>
+<div class="fig" style="--fig-width: 90%;">
+  <img src="/images/research figs/LES-LSM illustration.png" alt="LES-LSM with trees">
+  <div class="fig-cap">LES–LSM simulations of urban dispersion with street trees</div>
 </div>
 
-We also apply **LES** to quantify emissions from urban infrastructure. Our recent application focused on methane plumes from wastewater treatment plant digesters, which demonstrates a step change in spatial resolution and accuracy compared with high-resolution WRF simulations. These results highlight the importance of high-resolution physics-based modeling in both understanding emissions and supporting urban air quality management.
+We also use **LES** to quantify emissions from urban infrastructure. Our recent application focused on methane plumes from wastewater treatment plant digesters, which demonstrates a step change in spatial resolution and accuracy compared with high-resolution WRF simulations. These results highlight the importance of high-resolution physics-based modeling in both understanding emissions and supporting urban air quality management.
+
+<div class="fig" style="--fig-width: 70%;">
+  <img src="/images/research figs/CH4 LES illustration.png" alt="LES-based modeling of methane plumes from wastewater treatment plants">
+  <div class="fig-cap">LES simulations of methane plumes from an urban wastewater treatment plant</div>
+</div>
