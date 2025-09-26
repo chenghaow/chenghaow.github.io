@@ -64,7 +64,7 @@ The full searchable bibliography database, which contains more than 13,000 recor
 </div>
 
 <div class="member-card">
-  <img src="/images/bibcom_members/AsfaSiddiqui.jpg" alt="Asfa Siddiqui headshot">
+  <img src="/images/bibcom_members/AsfaSiddiqui.JPG" alt="Asfa Siddiqui headshot">
   <div class="member-info">
     <h3><a href="https://scholar.google.com/citations?user=bgPw4cQAAAAJ&hl=en">Asfa Siddiqui</a></h3>
     <p>Indian Institute of Remote Sensing, India</p>
@@ -190,7 +190,7 @@ The full searchable bibliography database, which contains more than 13,000 recor
 </div>
 
 <div class="member-card">
-  <img src="/images/bibcom_members/SurabhiMehrotra.jpg" alt="Surabhi Mehrotra headshot">
+  <img src="/images/bibcom_members/SurabhiMehrotra.JPG" alt="Surabhi Mehrotra headshot">
   <div class="member-info">
     <h3><a href="https://www.linkedin.com/in/namrata-dhamankar-2b0a8b10/">Surabhi Mehrotra</a></h3>
     <p>Maulana Azad National Institute of Technology, India</p>
