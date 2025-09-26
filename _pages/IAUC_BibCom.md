@@ -218,9 +218,9 @@ The full searchable bibliography database, which contains more than 13,000 recor
 
 ## Past Committee Members (term end date after Dec 2020)
 <div class="member-card">
-  <img src="/images/headshot_test.jpg" alt="test headshot">
+  <img src="/images/headshot_testname.jpg" alt="test name headshot">
   <div class="member-info">
-    <h3>test</h3>
+    <h3>test name</h3>
     <p>University of Oklahoma, USA</p>
     <p><em>Term: 201*–present</em></p>
   </div>
