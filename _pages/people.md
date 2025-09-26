@@ -38,6 +38,7 @@ author_profile: false   # keeps the right sidebar (or true)
         <strong>DGES Office:</strong> SEC 534 (Address: 100 E. Boyd Street Suite 534, Norman, OK 73019)
       </p>
       <p>Dr. Wang obtained his B.Eng. degree in Hydrology and Water Resources Engineering from China Three Gorges University in 2015, and Ph.D. degree in Civil, Environmental and Sustainable Engineering from Arizona State University in 2019. He was a visiting student at the Ohio State University in 2013. Dr. Wang was a postdoctoral research fellow at Stanford University from 2020 to 2022, during which he was also a New Map of Life fellow (2019 cohort) at the Stanford Center on Longevity. He joined the University of Oklahoma in 2022 as an assistant professor in the School of Meteorology and the Department of Geography and Environmental Sustainability.</p>
+      <p>Dr. Wang is a recipient of the National Science Foundation (NSF) EPSCoR Research Fellowship and the National Aeronautics and Space Administration (NASA) Early Career Investigator Award.</p>
       <p>He currently chairs the International Association for Urban Climate (IAUC) Bibliography Committee and the American Meteorological Society (AMS) Committee on Meteorological Aspects of Air Pollution. He is a member of the American Geophysical Union (AGU) June Bacon-Bercey Scholarship Committee, AGU Edmond M. Dewan Scholarship Committee, AMS Energy Committee, and AMS Committee on Applied Climatology. He also served as a contributing author of the Sixth National Climate Assessment (NCA6).</p>
     </div>
   </article>
