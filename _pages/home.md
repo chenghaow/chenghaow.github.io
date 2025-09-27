@@ -1,7 +1,7 @@
 ---
 
 layout: single
-title: "Sustainable URban Futures (SURF) Lab"
+title: 
 permalink: /
 author_profile: true
 redirect_from: 
@@ -33,9 +33,12 @@ Some key research questions that motivate our work include:
 - How will urban systems, including both infrastructure and people, be affected by and adapt to changing climate and weather extremes?
 - What roles do inter- and intra-city interactions play in shaping the spread and influence of environmental stressors and extremes?
 
+<div style="height:0.5rem;"></div>
 ---
+<div style="height:0.5rem;"></div>
 
 ### JOIN US
+<div style="height:0.3rem;"></div>
 
 If you are interested in joining us as a **graduate student (PhD or MS)**, please contact
 Dr. Chenghao Wang at <a href="mailto:chenghao.wang@ou.edu">chenghao.wang@ou.edu</a> and attach:
@@ -58,7 +61,12 @@ Department of Geography and Environmental Sustainability (DGES), and degree prog
 - [School of Meteorology Graduate Programs](https://www.ou.edu/ags/meteorology/academics)
 - [Geography & Environmental Sustainability Graduate Programs](https://www.ou.edu/ags/geography/academics/graduate)
 
-<div style="height:1.5rem;"></div>
+<div style="height:0.5rem;"></div>
+---
+<div style="height:0.5rem;"></div>
+
+### GALLERY
+<div style="height:0.3rem;"></div>
 
 <figure style="max-width:90%; margin:0 auto;">
   <img src="{{ '/images/photos/SF-skyline.jpg' | relative_url }}"
