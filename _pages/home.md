@@ -38,15 +38,15 @@ Some key research questions that motivate our work include:
 ### JOIN US
 
 If you are interested in joining us as a **graduate student (PhD or MS)**, please contact
-**Dr. Chenghao Wang** at <a href="mailto:chenghao.wang@ou.edu">chenghao.wang@ou.edu</a> and attach:
+Dr. Chenghao Wang at <a href="mailto:chenghao.wang@ou.edu">chenghao.wang@ou.edu</a> and attach:
 1) a **CV**; 2) a **brief statement** describing your interests (and relevant skills/experience when applicable);
 3) **unofficial academic transcripts** and **TOEFL/IELTS/PET transcripts** (when applicable).
 
 If you are interested in joining as a **postdoctoral researcher** in the general field of
-urban climate, please contact **Dr. Wang** directly.
+urban climate, please contact Dr. Wang directly.
 
 We also welcome **(visiting) undergraduate and graduate students** who are willing to work on
-short- or long-term research projects in our lab. If you are interested, please reach out to **Dr. Wang** at any time.
+short- or long-term research projects in our lab. If you are interested, please reach out to Dr. Wang at any time.
 
 ---
 
