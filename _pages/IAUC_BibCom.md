@@ -218,11 +218,119 @@ The full searchable bibliography database, which contains more than 13,000 recor
 
 ## Past Committee Members (term end date after Dec 2020)
 <div class="member-card">
-  <img src="/images/headshot_testname.jpg" alt="test name headshot">
+  <img src="/images/bibcom_members/AnsarKhan.jpg" alt="Ansar Khan headshot">
   <div class="member-info">
-    <h3>test name</h3>
-    <p>University of Oklahoma, USA</p>
-    <p><em>Term: 201*–present</em></p>
+    <h3><a href="https://www.researchgate.net/profile/Ansar-Khan">Ansar Khan</a></h3>
+    <p>Lalbaba College, University of Calcutta, India</p>
+    <p><em>Term: 2018–2025</em></p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/bibcom_members/RafiqHamdi.jpg" alt="Rafiq Hamdi headshot">
+  <div class="member-info">
+    <h3><a href="https://www.researchgate.net/profile/Rafiq-Hamdi">Rafiq Hamdi</a></h3>
+    <p>Belgian Meteorological Institute, Belgium</p>
+    <p><em>Term: 2008–2025</em></p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/bibcom_members/NamrataDhamankar-Jadhav.jpg" alt="Namrata Dhamankar-Jadhav headshot">
+  <div class="member-info">
+    <h3><a href="https://www.linkedin.com/in/namrata-dhamankar-2b0a8b10/">Namrata Dhamankar-Jadhav</a></h3>
+    <p>MKSSS Dr. B. N. College of Architecture, India</p>
+    <p><em>Term: 2023–2025</em></p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/bibcom_members/IaraSantos.jpg" alt="Iara Santos headshot">
+  <div class="member-info">
+    <h3>Iara Santos</h3>
+    <p>Technical University of Munich, Germany/Brazil</p>
+    <p><em>Term: 2015–2024</em></p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/bibcom_members/MartinaPetralli.jpg" alt="Martina Petralli headshot">
+  <div class="member-info">
+    <h3><a href="https://scholar.google.co.in/citations?hl=en&user=wQy4hPgAAAAJ">Martina Petralli</a></h3>
+    <p>University of Florence, Italy</p>
+    <p><em>Term: prior to 2012–2024</em></p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/bibcom_members/AdityaRahul.jpg" alt="Aditya Rahul headshot">
+  <div class="member-info">
+    <h3><a href="https://www.researchgate.net/profile/Aditya-Rahul-2">Aditya Rahul</a></h3>
+    <p>Indian Institute of Technology–Roorkee, India</p>
+    <p><em>Term: 2019–2024</em></p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/bibcom_members/PravinBhiwapurkar.jpg" alt="Pravin Bhiwapurkar headshot">
+  <div class="member-info">
+    <h3><a href="https://researchdirectory.uc.edu/p/bhiwappn">Pravin Bhiwapurkar</a></h3>
+    <p>University of Cincinnati, USA</p>
+    <p><em>Term: 2018–2023</em></p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/bibcom_members/AnuragBagade.jpg" alt="Anurag Bagade headshot">
+  <div class="member-info">
+    <h3><a href="https://scholar.google.com/citations?user=ksGWwQwAAAAJ&hl=en">Anurag Bagade</a></h3>
+    <p>Visvesvaraya National Institute of Technology Nagpur, India</p>
+    <p><em>Term: 2018–2023</em></p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/bibcom_members/RohintonEmmanuel.jpg" alt="Rohinton Emmanuel headshot">
+  <div class="member-info">
+    <h3><a href="https://www.gcu.ac.uk/staff/rohintonemmanuel">Rohinton Emmanuel</a></h3>
+    <p>Glasgow Caledonian University, UK</p>
+    <p><em>Term: 2008–2022</em></p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/bibcom_members/LechGawuc.jpg" alt="Lech Gawuć headshot">
+  <div class="member-info">
+    <h3><a href="https://scholar.google.com/citations?user=mPdxPzAAAAAJ&hl=en">Lech Gawuć</a></h3>
+    <p>Institute of Environmental Protection – National Research Institute, Poland</p>
+    <p><em>Term: 2015–2022</em></p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/bibcom_members/JuliaHidalgo.png" alt="Julia Hidalgo headshot">
+  <div class="member-info">
+    <h3><a href="https://blogs.univ-tlse2.fr/julia-hidalgo/?doing_wp_cron=1661748236.4303131103515625000000">Julia Hidalgo</a></h3>
+    <p>Laboratoire Interdisciplinaire Solidarités, Sociétés, Territoires, Université Toulouse – Le Mirail, France</p>
+    <p><em>Term: 2008–2022</em></p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/bibcom_members/KathrinFeige.jpg" alt="Kathrin Feige headshot">
+  <div class="member-info">
+    <h3><a href="https://scholar.google.de/citations?user=xfMXPT4AAAAJ&hl=de">Kathrin Feige</a></h3>
+    <p>Deutscher Wetterdienst, Germany</p>
+    <p><em>Term: prior to 2012–2020</em></p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/bibcom_members/MatthiasDemuzere.jpg" alt="Matthias Demuzere headshot">
+  <div class="member-info">
+    <h3><a href="https://scholar.google.com/citations?user=Q4OH4IkAAAAJ&hl=en">Matthias Demuzere</a></h3>
+    <p>Ruhr University Bochum, Germany</p>
+    <p><em>Term: prior to 2012–2020 (Former Committee Chair)</em></p>
   </div>
 </div>
 
