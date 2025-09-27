@@ -1,12 +1,10 @@
 ---
-
 layout: single
 title: 
 permalink: /
 author_profile: true
 redirect_from: 
   - /home/
-
 ---
 
 Welcome to the **Sustainable URban Futures (SURF) Lab** in the
@@ -68,15 +66,75 @@ Department of Geography and Environmental Sustainability (DGES), and degree prog
 ### GALLERY
 <div style="height:0.3rem;"></div>
 
-<figure style="max-width:90%; margin:0 auto;">
-  <img src="{{ '/images/photos/SF-skyline.jpg' | relative_url }}"
-       alt="San Francisco skyline"
-       style="width:100%; display:block; object-fit:cover;">
-  <figcaption style="color:#666; margin-top:.5rem; display:inline-block; margin-left:auto; margin-right:auto;">
-    San Francisco — credit: Chenghao Wang (Jun 2022)
-  </figcaption>
-</figure>
+<style>
+/* Container for the gallery */
+.gallery-simple{
+  max-width:90%;
+  margin:2rem auto;
+  text-align:center;   /* centers the inline-blocks */
+  font-size:0;         /* removes the tiny gap between inline-blocks */
+}
 
+/* Your existing figure block, simplified */
+.fig{
+  display:inline-block;
+  width:48%;           /* 2 per row */
+  margin:0 1% 2rem;    /* even side & row gaps */
+  vertical-align:top;
+  font-size:16px;      /* restore font size inside */
+  text-align:center;
+}
+.fig img{
+  width:100%;
+  height:auto;
+  display:block;
+}
+.fig-cap{
+  font-size:.8rem;
+  margin-top:.5rem;
+}
+
+/* Override Minimal Mistakes left-align on figcaptions */
+.page__content .fig .fig-cap{ text-align:center !important; }
+
+/* Stack on small screens */
+@media (max-width:768px){
+  .fig{ width:100%; margin:0 0 1.5rem; }
+}
+
+/* Full-width single image */
+.fig-full{ max-width:90%; margin:0 auto; text-align:center; }
+.fig-full img{ width:100%; display:block; }
+.fig-full .fig-cap{ margin-top:.5rem; }
+</style>
+
+<div class="gallery-simple">
+  <div class="fig">
+    <img src="{{ '/images/photos/202509.jpg' | relative_url }}" alt="Field experiment">
+    <div class="fig-cap">Field experiment (Sep 2025)</div>
+  </div>
+
+  <div class="fig">
+    <img src="{{ '/images/photos/202508.jpg' | relative_url }}" alt="Welcome lunch">
+    <div class="fig-cap">Welcome lunch (Aug 2025)</div>
+  </div>
+
+  <div class="fig">
+    <img src="{{ '/images/photos/202408.jpg' | relative_url }}" alt="Lab gathering">
+    <div class="fig-cap">Lab Gathering (Aug 2024)</div>
+  </div>
+
+  <div class="fig">
+    <img src="{{ '/images/photos/202407.jpg' | relative_url }}" alt="Hiking in Boulder">
+    <div class="fig-cap">Hiking in Boulder, CO (July 2024)</div>
+  </div>
+</div>
+
+<!-- Full-width single image -->
+<div class="fig-full">
+  <img src="{{ '/images/photos/SF-skyline.jpg' | relative_url }}" alt="San Francisco skyline">
+  <div class="fig-cap">San Francisco Skyline by Chenghao (Jun 2022)</div>
+</div>
 
 {% comment %}
 alt: text for screen readers and when the image can’t load.

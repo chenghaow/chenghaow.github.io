@@ -27,10 +27,12 @@ author_profile: false   # keeps the right sidebar (or true)
 
 .member-info h3 {
   margin: 0 0 .2rem 0;
+  color: #333;
 }
 
 .member-info p {
   margin: .15rem 0;
+  color: #333;
 }
 </style>
 

@@ -47,12 +47,12 @@
 
 
 /* ---- Publications ---- */
-.pub-legend { font-size:.95rem; color:#333; margin:.5rem 0 1rem; }
+.pub-legend { font-size:.95rem; margin:.5rem 0 1rem; }
 .mentee { color:#0a7c2f; font-weight:600; }                  /* students mentored */
 .me { font-weight:700; text-decoration:none; }               /* your name: bold, no underline */
 
 /* Section headings */
-.pub-sec, .pub-year { color:#8B0000; font-weight:700; margin:1.5rem 0 .75rem; }
+.pub-sec, .pub-year { font-weight:700; margin:1.5rem 0 .75rem; }
 
 /* One publication block = paper line + media line, separated from neighbors */
 .pub { margin:0 0 1rem 0; padding:0 0 .9rem 0; border-bottom:1px solid #eee; }

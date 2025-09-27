@@ -16,7 +16,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <!-- Preprint -->
 
-<h3 id="preprint" class="pub-sec">Preprint</h3>
+<h2 id="preprint" class="pub-sec">Preprint</h2>
 
 <div class="pub">
   <div class="pub-line">
@@ -30,7 +30,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <!-- 2025 -->
 
-<h3 id="y2025" class="pub-year">2025</h3>
+<h2 id="y2025" class="pub-year">2025</h2>
 
 <div class="pub">
   <div class="pub-line">
@@ -185,7 +185,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <!-- 2024 -->
 
-<h3 id="y2024" class="pub-year">2024</h3>
+<h2 id="y2024" class="pub-year">2024</h2>
 
 <div class="pub">
   <div class="pub-line">
@@ -388,7 +388,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <!-- 2023 -->
 
-<h3 id="y2023" class="pub-year">2023</h3>
+<h2 id="y2023" class="pub-year">2023</h2>
 
 <div class="pub">
   <div class="pub-line">
@@ -458,7 +458,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <!-- 2022 -->
 
-<h3 id="y2022" class="pub-year">2022</h3>
+<h2 id="y2022" class="pub-year">2022</h2>
 
 <div class="pub">
   <div class="pub-line">
@@ -624,7 +624,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <!-- 2021 -->
 
-<h3 id="y2021" class="pub-year">2021</h3>
+<h2 id="y2021" class="pub-year">2021</h2>
 
 <div class="pub">
   <div class="pub-line">
@@ -783,7 +783,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <!-- 2020 -->
 
-<h3 id="y2020" class="pub-year">2020</h3>
+<h2 id="y2020" class="pub-year">2020</h2>
 
 <div class="pub">
   <div class="pub-line">
@@ -866,7 +866,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <!-- 2019 -->
 
-<h3 id="y2019" class="pub-year">2019</h3>
+<h2 id="y2019" class="pub-year">2019</h2>
 
 <div class="pub">
   <div class="pub-line">
@@ -909,7 +909,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <!-- 2018 -->
 
-<h3 id="y2018" class="pub-year">2018</h3>
+<h2 id="y2018" class="pub-year">2018</h2>
 
 <div class="pub">
   <div class="pub-line">
@@ -959,7 +959,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <!-- 2017 -->
 
-<h3 id="y2017" class="pub-year">2017</h3>
+<h2 id="y2017" class="pub-year">2017</h2>
 
 <div class="pub">
   <div class="pub-line">
@@ -1008,7 +1008,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <!-- 2016 -->
 
-<h3 id="y2016" class="pub-year">2016</h3>
+<h2 id="y2016" class="pub-year">2016</h2>
 
 <div class="pub">
   <div class="pub-line">
@@ -1056,7 +1056,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <!-- 2015 and earlier (journal articles only)-->
 
-<h3 id="y2015andearlier" class="pub-year">2015 and earlier (journal articles only)</h3>
+<h2 id="y2015andearlier" class="pub-year">2015 and earlier (journal articles only)</h2>
 
 <div class="pub">
   <div class="pub-line">
