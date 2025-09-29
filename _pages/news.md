@@ -10,9 +10,23 @@ author_profile: true
 <!-- 2025 -->
 
   <div class="news-item">
+    <div class="news-date">2025-09-29</div>
+    <div class="news-body">
+      <strong>[Accomplishment]</strong> Cathleen Simatupang recently received the Data Institute for Societal Challenges Postdoctoral Fellowship Award. Congratulations, Cathleen!
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2025-09-22</div>
     <div class="news-body">
       <strong>[Lab Member]</strong> Haoran Hou recently joined the SURF Lab as a postdoctoral researcher. Welcome!
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">2025-09-19</div>
+    <div class="news-body">
+      <strong>[Accomplishment]</strong> Liam Thompson was recently selected as the recipient of an American Meteorological Society Senior Named Scholarship, The Dr. Terry C. Tarbell Scholarship. Congratulations, Liam!
     </div>
   </div>
 

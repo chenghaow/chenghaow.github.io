@@ -6,7 +6,7 @@ author_profile: false   # keeps the right sidebar (or true)
 ---
 
 <p class="people-toc">
-  <a href="#pi">Lab PI</a> · <a href="#current">Current Lab Members (7)</a> · <a href="#alumni">Alumni (7)</a>
+  <a href="#pi">Lab PI</a> · <a href="#current">Current Lab Members (8)</a> · <a href="#alumni">Alumni (7)</a>
 </p>
 
 <h2 id="pi">PI</h2>
@@ -112,6 +112,28 @@ author_profile: false   # keeps the right sidebar (or true)
   </article>
 
 
+  <!-- Person -->
+  <article class="person">
+    <img class="person-photo" src="{{ '/images/portraits/Haoran_Hou.jpg' | relative_url }}" alt="Haoran Hou">
+    <div>
+      <h3 class="person-name">Haoran Hou</h3>
+      <p class="person-meta">Postdoctoral Researcher, School of Meteorology, University of Oklahoma</p>
+      <p class="person-links">
+        <strong>Email:</strong> <a href="mailto:Haoran.Hou-1@ou.edu">Haoran.Hou-1@ou.edu</a>
+      </p>
+      <p class="person-links">
+        <a href="/files/lab member CVs/Haoran_Hou_CV.pdf">Curriculum Vitae</a>
+      </p>
+      <p class="person-links">
+        <strong>Office:</strong> NWC 5356
+      </p>      
+      <p>
+        To be added...
+      </p>
+    </div>
+  </article>
+
+
 <!-- Person -->
   <article class="person">
     <img class="person-photo" src="{{ '/images/portraits/Yuqi_Huang.jpg' | relative_url }}" alt="Yuqi Huang">
@@ -202,20 +224,10 @@ author_profile: false   # keeps the right sidebar (or true)
         <strong>Office:</strong> SEC 410B
       </p>      
       <p>
-        Jessica is currently a M.S. student in the School of Meteorology at OU. Prior to coming to OU, 
-        Jessica graduated from Barrett the Honors College at Arizona State University 
-        with a bachelor’s degree in Meteorology-Climatology. Her previous research analyzed 
-        the relationship between tropospheric ozone pollution and synoptic conditions 
-        in Phoenix, Arizona. In addition, Jessica worked as a meteorologist for the 
-        National Oceanic and Atmospheric Administration/National Weather Service Phoenix office.
+        Tianze is currently a Ph.D. student in the Department of Geography and Environmental Sustainability at OU. He hold a Master’s degree (MLA) in landscape Architecture from the University of Edinburgh and a Bachelor of Agriculture degree in Landscape gardening from Northwest A&F University.
       </p>
       <p>  
-        Jessica’s research interests include applied climatology, energy, urban meteorology, 
-        climate variability, and synoptic meteorology. Her research at OU will aim to 
-        enhance urban building energy use predictions with the development of an integrated modeling 
-        framework that accounts for local and regional meteorological conditions. 
-        This will combine building stock models with urban meteorological models to 
-        create more accurate predictions of city-level building energy use.
+        Tianze’s research interests include urban climate modeling, urban thermal comfort, and natural solutions based on urban trees. His doctoral research will focus on urban climate models, particularly numerical simulations of heat stress and air pollution. Additionally, he uses state of art technology modeling tools (such as machine learning) to combine observational data, remote sensing technology, and climate model output to deepen our understanding of the urban environment. His recent work was featured in the ECA graduate show, and his research was included in the journal Energy and Building and international conference on IUFRO.
       </p>
     </div>
   </article>
@@ -249,6 +261,7 @@ author_profile: false   # keeps the right sidebar (or true)
         health risk assessments. She also examined how outdoor air pollution affects indoor 
         air quality, especially in a semi-open learning environment such as a childcare center.
       </p>
+      <p>
         Dr. Simatupang’s current research interests include ambient and indoor air quality, 
         urban meteorology, satellite remote sensing, and environmental health. She is particularly 
         focused on using modeling and monitoring tools to assess pollutant dynamics and 
