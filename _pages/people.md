@@ -119,16 +119,26 @@ author_profile: false   # keeps the right sidebar (or true)
       <h3 class="person-name">Haoran Hou</h3>
       <p class="person-meta">Postdoctoral Researcher, School of Meteorology, University of Oklahoma</p>
       <p class="person-links">
-        <strong>Email:</strong> <a href="mailto:Haoran.Hou-1@ou.edu">Haoran.Hou-1@ou.edu</a>
+        <strong>Email:</strong> <a href="mailto:hr.hou@ou.edu">hr.hou@ou.edu</a>
       </p>
       <p class="person-links">
         <a href="/files/lab member CVs/Haoran_Hou_CV.pdf">Curriculum Vitae</a>
       </p>
+      <p class="person-links"> 
+        <strong>Profile:</strong>
+        <a href="https://scholar.google.com/citations?user=MWShSlgAAAAJ&hl">Google Scholar</a>
+      </p>
       <p class="person-links">
-        <strong>Office:</strong> NWC 5356
+        <strong>Office:</strong> NWC 5365
       </p>      
       <p>
-        To be added...
+        Dr. Hou earned his Ph.D. in Cartography and Geographic Information Systems from the University of the Chinese Academy of Sciences, China. He previously received a Master’s degree from Fujian Normal University and a Bachelor’s degree from Xuchang University, both in the same field.
+      </p>
+      <p>
+         His doctoral research explored the integration of multisource data and machine learning techniques to investigate how urban landscapes drive changes in the urban thermal environment. Prior to joining OU, he worked for two years at the Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, where he studied the spatiotemporal variations of extreme heat events in Beijing since the 1980s and examined how nature-based solutions could mitigate their impacts on urban residents.
+      </p>
+      <p>
+         Dr. Hou’s current research interests include urban climate modeling and remote sensing applications. He is particularly interested in combining modeling and observational approaches to assess extreme heat and to support urban management and planning strategies for heat mitigation.
       </p>
     </div>
   </article>
@@ -145,6 +155,10 @@ author_profile: false   # keeps the right sidebar (or true)
       </p>
       <p class="person-links">
         <a href="/files/lab member CVs/Yuqi_Huang_CV_2023-08.pdf">Curriculum Vitae</a>
+      </p>
+      <p class="person-links"> 
+        <strong>Profile:</strong>
+        <a href="https://scholar.google.com/citations?hl=en&user=_j-zRo4AAAAJ">Google Scholar</a>
       </p>
       <p class="person-links">
         <strong>Office:</strong> NWC 5340
@@ -244,6 +258,10 @@ author_profile: false   # keeps the right sidebar (or true)
       </p>
       <p class="person-links">
         <a href="/files/lab member CVs/Cathleen_Simatupang_CV_2025-05.pdf">Curriculum Vitae</a>
+      </p>
+      <p class="person-links"> 
+        <strong>Profile:</strong>
+        <a href="https://scholar.google.com/citations?hl=en&user=FOnnn9cAAAAJ">Google Scholar</a>
       </p>
       <p class="person-links">
         <strong>Office:</strong> NWC 5340
