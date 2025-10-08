@@ -38,6 +38,13 @@ Some key research questions that motivate our work include:
 ### JOIN US
 <div style="height:0.3rem;"></div>
 
+**SURF Lab currently does not have openings for graduate students.** 
+
+If you’re interested in joining as a **postdoctoral researcher** in urban climate, please contact Dr. Chenghao Wang directly. 
+
+We also welcome **visiting students and scholars/professors** for short- or long-term visits. If you are interested, please reach out to Dr. Wang at any time.
+
+<!--
 If you are interested in joining us as a **graduate student (PhD or MS)**, please contact
 Dr. Chenghao Wang at <a href="mailto:chenghao.wang@ou.edu">chenghao.wang@ou.edu</a> and attach:
 1) a **CV**; 2) a **brief statement** describing your interests (and relevant skills/experience when applicable);
@@ -48,6 +55,7 @@ urban climate, please contact Dr. Wang directly.
 
 We also welcome **(visiting) undergraduate and graduate students** who are willing to work on
 short- or long-term research projects in our lab. If you are interested, please reach out to Dr. Wang at any time.
+-->
 
 ---
 

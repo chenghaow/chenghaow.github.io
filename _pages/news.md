@@ -10,6 +10,13 @@ author_profile: true
 <!-- 2025 -->
 
   <div class="news-item">
+    <div class="news-date">2025-10-08</div>
+    <div class="news-body">
+      <strong>[Call for Papers]</strong> We are organizing a Collection "<a href="https://www.nature.com/collections/adbhbjdbdj/about-this-collection" target="_blank">Climate adaptation and resilience in urban and rural communities</a>" with Nature Portfolio journals <em>Communications Earth & Environment</em>, <em>Communications Sustainability</em>, <em>Nature Communications</em>, and <em>Scientific Reports</em>. The submission deadline is <strong>March 31, 2026</strong>.
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2025-09-29</div>
     <div class="news-body">
       <strong>[Accomplishment]</strong> Cathleen Simatupang recently received the Data Institute for Societal Challenges Postdoctoral Fellowship Award. Congratulations, Cathleen!
@@ -445,7 +452,7 @@ author_profile: true
   <div class="news-item">
     <div class="news-date">2022-08-31</div>
     <div class="news-body">
-      <strong>[Other]</strong> We are organizing a Special Issue "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/Y602B3CNT6" target="_blank">Using Remote Sensing and GIS Technique/Methods to Address Current Urbanization Issues</a>" with the journal <a href="https://www.mdpi.com/journal/remotesensing" target="_blank">Remote Sensing</a>. The submission deadline is <strong>April 30, 2023</strong>.
+      <strong>[Call for Papers]</strong> We are organizing a Special Issue "<a href="https://www.mdpi.com/journal/remotesensing/special_issues/Y602B3CNT6" target="_blank">Using Remote Sensing and GIS Technique/Methods to Address Current Urbanization Issues</a>" with the journal <a href="https://www.mdpi.com/journal/remotesensing" target="_blank">Remote Sensing</a>. The submission deadline is <strong>April 30, 2023</strong>.
     </div>
   </div>
 
