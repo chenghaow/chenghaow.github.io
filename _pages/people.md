@@ -18,7 +18,8 @@ author_profile: false   # keeps the right sidebar (or true)
       <h3 class="person-name">Chenghao Wang</h3>
       <p class="person-meta">Assistant Professor, University of Oklahoma</p>
       <p class="person-links">
-        <strong>Email:</strong> <a href="mailto:chenghao.wang@ou.edu">chenghao.wang@ou.edu</a>
+        <strong>Email:</strong> <a href="mailto:chenghao.wang@ou.edu">chenghao.wang@ou.edu</a>; 
+        <strong>Office Tel:</strong> (405) 325-4353
       </p>
       <p class="person-links">  
         <a href="{{ '/files/lab member CVs/CV - Chenghao Wang - 2025-09.pdf' | relative_url }}">Curriculum Vitae</a>
