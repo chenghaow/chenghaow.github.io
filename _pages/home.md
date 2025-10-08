@@ -63,9 +63,9 @@ More information about the University of Oklahoma (OU), the School of Meteorolog
 Department of Geography and Environmental Sustainability (DGES), and degree programs:
 - [University of Oklahoma](https://www.ou.edu)
 - [School of Meteorology](https://www.ou.edu/ags/meteorology)
-- [Geography & Environmental Sustainability](https://www.ou.edu/ags/geography)
+- [Department of Geography and Environmental Sustainability](https://www.ou.edu/ags/geography)
 - [School of Meteorology Graduate Programs](https://www.ou.edu/ags/meteorology/academics)
-- [Geography & Environmental Sustainability Graduate Programs](https://www.ou.edu/ags/geography/academics/graduate)
+- [Department of Geography and Environmental Sustainability Graduate Programs](https://www.ou.edu/ags/geography/academics/graduate)
 
 <div style="height:0.5rem;"></div>
 ---
