@@ -34,6 +34,16 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <div class="pub">
   <div class="pub-line">
+    <span class="pub-num">77.</span>
+    Kashtan, Y., <span class="me">Wang, C.</span>, Nadeau, K., C., &amp; Jackson, R. B.* (2025).
+    Integrating indoor and outdoor nitrogen dioxide exposures in U.S. homes nationally by ZIP code.
+    <span class="pub-title">PNAS Nexus</span>, in press.
+  </div>
+</div>
+
+
+<div class="pub">
+  <div class="pub-line">
     <span class="pub-num">76.</span>
     <span class="me">Wang, C.</span>*<sup>,</sup>†, Wang, Y.†, Wang, Z.-H.†, &amp; Yang, X. (2025).
     Causal network and dynamic synchronization of urban thermal environment.
