@@ -47,7 +47,8 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     <span class="pub-num">76.</span>
     <span class="me">Wang, C.</span>*<sup>,</sup>†, Wang, Y.†, Wang, Z.-H.†, &amp; Yang, X. (2025).
     Causal network and dynamic synchronization of urban thermal environment.
-    <span class="pub-title">Philosophical Transactions of the Royal Society A</span>, in press.
+    <span class="pub-title">Philosophical Transactions of the Royal Society A</span>, 383, 20250041.
+    <span class="pub-links"><a href="https://doi.org/10.1098/rsta.2025.0041" target="_blank">Full Text</a>.</span>
   </div>
 </div>
 
@@ -55,23 +56,23 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">75.</span>
-    Liu, B.*, Irvin, J., Omara, M., <span class="me">Wang, C.</span>, Kornberg, G., Sheng, H., Gautam, R., Ng, A. Y., &amp; Jackson, R. B. (2025).
-    Regional mapping of natural gas compressor stations in the United States and Canada using deep learning on satellite imagery.
-    <span class="pub-title">Journal of Environmental Management</span>, 393, 126728.
-    <span class="pub-links"><a href="https://doi.org/10.1016/j.jenvman.2025.126728" target="_blank">Full Text</a>.</span>
+    Cordero, R. R., Feron, S.*, Malhotra, A., Damiani, A., Ding, M., Fernandoy, F., Alfonso, J. A., Garcia, B., Carrera, J. M., Llanillo, P., Wachter, P., Pizarro, J.*, Roumeas, E., Sepúlveda, E., Jorquera, J., <span class="me">Wang, C.</span>, Carrasco, J., Ouyang, Z., Oyola, P., Loonen, M., Beaulieu, A., Dana, J., Khan, A. L., Casassa, G., &amp; Kang, C.-M. (2025).
+    Heavy metal imprints in Antarctic snow from research and tourism.
+    <span class="pub-title">Nature Sustainability</span>, 8, 1119–1129.
+    <span class="pub-links"><a href="https://doi.org/10.1038/s41893-025-01616-7" target="_blank">Full Text</a>.</span>
   </div>
+  <div class="media">[<strong>Media coverage:</strong> <a href="https://www.france24.com/en/live-news/20250821-surging-tourism-is-polluting-antarctica-scientists-warn" target="_blank">FRANCE 24</a>.]</div>
 </div>
 
 
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">74.</span>
-    Cordero, R. R., Feron, S.*, Malhotra, A., Damiani, A., Ding, M., Fernandoy, F., Alfonso, J. A., Garcia, B., Carrera, J. M., Llanillo, P., Wachter, P., Pizarro, J.*, Roumeas, E., Sepúlveda, E., Jorquera, J., <span class="me">Wang, C.</span>, Carrasco, J., Ouyang, Z., Oyola, P., Loonen, M., Beaulieu, A., Dana, J., Khan, A. L., Casassa, G., &amp; Kang, C.-M. (2025).
-    Heavy metal imprints in Antarctic snow from research and tourism.
-    <span class="pub-title">Nature Sustainability</span>, online.
-    <span class="pub-links"><a href="https://doi.org/10.1038/s41893-025-01616-7" target="_blank">Full Text</a>.</span>
+    Liu, B.*, Irvin, J., Omara, M., <span class="me">Wang, C.</span>, Kornberg, G., Sheng, H., Gautam, R., Ng, A. Y., &amp; Jackson, R. B. (2025).
+    Regional mapping of natural gas compressor stations in the United States and Canada using deep learning on satellite imagery.
+    <span class="pub-title">Journal of Environmental Management</span>, 393, 126728.
+    <span class="pub-links"><a href="https://doi.org/10.1016/j.jenvman.2025.126728" target="_blank">Full Text</a>.</span>
   </div>
-  <div class="media">[<strong>Media coverage:</strong> <a href="https://www.france24.com/en/live-news/20250821-surging-tourism-is-polluting-antarctica-scientists-warn" target="_blank">FRANCE 24</a>.]</div>
 </div>
 
 
