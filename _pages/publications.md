@@ -11,7 +11,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
   *: Corresponding Author;  †: Equal Contribution;  ‡: Authors Ordered Alphabetically;<br>
   §: <span class="mentee">Students and Postdocs Mentored</span>.<br>
   <strong>C</strong>: Conference Paper;  <strong>R</strong>: Technical Report;  <strong>P</strong>: Preprint;
-  <strong>Media Coverage</strong>: Press Release with Links.
+  <strong>Media Coverage</strong>: Press Release with Links; <strong>Featured</strong>: Featured as Issue Cover.
 </div>
 
 <!-- Preprint -->
@@ -61,7 +61,10 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     <span class="pub-title">Nature Sustainability</span>, 8, 1119–1129.
     <span class="pub-links"><a href="https://doi.org/10.1038/s41893-025-01616-7" target="_blank">Full Text</a>.</span>
   </div>
-  <div class="media">[<strong>Media coverage:</strong> <a href="https://www.france24.com/en/live-news/20250821-surging-tourism-is-polluting-antarctica-scientists-warn" target="_blank">FRANCE 24</a>.]</div>
+  <div class="media">[<strong>Media coverage:</strong>
+  <a href="https://doi.org/10.1038/s41893-025-01674-x" target="_blank">Nature Sustainability</a>, 
+  <a href="https://www.france24.com/en/live-news/20250821-surging-tourism-is-polluting-antarctica-scientists-warn" target="_blank">FRANCE 24</a>.]</div>
+  <div class="media">[<strong>Featured</strong> as <a href="https://www.nature.com/natsustain/volumes/8/issues/10" target="_blank">Issue Cover</a>.]</div>
 </div>
 
 
@@ -942,7 +945,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     <span class="pub-title">Earth’s Future</span>, 6(8), 1066–1081.
     <span class="pub-links"><a href="https://doi.org/10.1029/2018EF000891" target="_blank">Full Text</a>.</span>
   </div>
-  <div class="media">[<strong>Featured as</strong> <a href="https://doi.org/10.1002/eft2.245" target="_blank">Issue Cover</a>.]</div>
+  <div class="media">[<strong>Featured</strong> as <a href="https://doi.org/10.1002/eft2.245" target="_blank">Issue Cover</a>.]</div>
 </div>
 
 
