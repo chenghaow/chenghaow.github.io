@@ -10,6 +10,13 @@ author_profile: true
 <!-- 2025 -->
 
   <div class="news-item">
+    <div class="news-date">2025-08-20</div>
+    <div class="news-body">
+      <strong>[New Publication]</strong> Our new paper on Antarctic snow, "<a href="https://doi.org/10.1038/s41893-025-01616-7" target="_blank">Heavy metal imprints in Antarctic snow from research and tourism</a>", is featured as <a href="https://www.nature.com/natsustain/volumes/8/issues/10" target="_blank">Issue Cover</a> by <em>Nature Sustainability</em> and highlighted by an Editorial, "<a href="https://doi.org/10.1038/s41893-025-01674-x" target="_blank">Treading on fragile ground</a>".
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2025-10-08</div>
     <div class="news-body">
       <strong>[Call for Papers]</strong> We are organizing a Collection "<a href="https://www.nature.com/collections/adbhbjdbdj/about-this-collection" target="_blank">Climate adaptation and resilience in urban and rural communities</a>" with Nature Portfolio journals <em>Communications Earth & Environment</em>, <em>Communications Sustainability</em>, <em>Nature Communications</em>, and <em>Scientific Reports</em>. The submission deadline is <strong>March 31, 2026</strong>.
