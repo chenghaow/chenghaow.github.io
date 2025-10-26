@@ -34,6 +34,21 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <div class="pub">
   <div class="pub-line">
+    <span class="pub-num">78.</span>
+    Ouyang, Z., Jackson, R. B.*, Saunois, M., Canadell, J. G., Zhao, Y., Morfopoulos, C., Krummel, P. B., 
+    Patra, P. K., Peters, G. P., Dennison, F., Gasser, T., Archibald, A. T. ‡, Arora, V.‡, Baudoin, G.‡, 
+    Chandra, N.‡, Ciais, P.‡, Davis, S. J.‡, Feron, S.‡, Guo, F.‡, Hauglustaine, D.‡, Jones, C. D.‡, 
+    Jones, M. W.‡, Kato, E.‡, Kennedy, D.‡, Knauer, J.‡, Lienert, S.‡, Lombardozzi, D.‡, Melton, J. R.‡, 
+    Nable, J. E. M. S.‡, O'Sullivan, M.‡, Pétron, G.‡, Poulter, B.‡, Rogelj, J.‡, Sandoval Calle, D.‡, 
+    Smith, P.‡, Suntharalingam, P.‡, Tian, H.‡, <span class="me">Wang, C.</span>‡, & Wiltshire, A.‡ 
+    (2025). The global hydrogen budget.
+    <span class="pub-title">Nature</span>, in press.
+  </div>
+</div>
+
+
+<div class="pub">
+  <div class="pub-line">
     <span class="pub-num">77.</span>
     Kashtan, Y., <span class="me">Wang, C.</span>, Nadeau, K., C., &amp; Jackson, R. B.* (2025).
     Integrating indoor and outdoor nitrogen dioxide exposures in U.S. homes nationally by ZIP code.
