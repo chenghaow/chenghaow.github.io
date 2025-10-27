@@ -37,6 +37,21 @@ author_profile: true
   </div>
 
   <div class="teach__item">
+    <div class="teach__term">2026 Spring</div>
+    <div class="teach__course">GEOG 4953-018: Capstone</div>
+  </div>
+
+  <div class="teach__item">
+    <div class="teach__term">2025 Fall</div>
+    <div class="teach__course">METR 5990-062: Independent Study</div>
+  </div>
+
+  <div class="teach__item">
+    <div class="teach__term">2025 Spring</div>
+    <div class="teach__course">METR 3960-005: Honors Reading</div>
+  </div>
+
+  <div class="teach__item">
     <div class="teach__term">2025 Spring</div>
     <div class="teach__course">GEOG/METR 4043/5043-001: Urban Climatology</div>
   </div>
