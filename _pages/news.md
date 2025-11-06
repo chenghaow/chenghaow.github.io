@@ -10,6 +10,13 @@ author_profile: true
 <!-- 2025 -->
 
   <div class="news-item">
+    <div class="news-date">2025-11-06</div>
+    <div class="news-body">
+      <strong>[New Publication]</strong> Our new paper on urban climate network science, "<a href="https://doi.org/10.1098/rsta.2025.0041" target="_blank">Causal network and dynamic synchronization of urban thermal environment</a>", is published in <em>Philosophical Transactions of the Royal Society A: Mathematical, Physical & Engineering Sciences</em> (IF: 3.7).
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2025-10-22</div>
     <div class="news-body">
       <strong>[New Publication]</strong> Our new paper on Antarctic snow, "<a href="https://doi.org/10.1038/s41893-025-01616-7" target="_blank">Heavy metal imprints in Antarctic snow from research and tourism</a>", is featured as <a href="https://www.nature.com/natsustain/volumes/8/issues/10" target="_blank">Issue Cover</a> by <em>Nature Sustainability</em> and highlighted by an Editorial, "<a href="https://doi.org/10.1038/s41893-025-01674-x" target="_blank">Treading on fragile ground</a>".
