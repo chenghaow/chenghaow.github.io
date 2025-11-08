@@ -8,14 +8,20 @@ author_profile: true
 You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.author.googlescholar}}).
 
 <div class="pub-legend">
-  *: Corresponding Author;  †: Equal Contribution;  ‡: Authors Ordered Alphabetically;<br>
-  §: <span class="mentee">Students and Postdocs Mentored</span>.<br>
-  <strong>C</strong>: Conference Paper;  <strong>R</strong>: Technical Report;  <strong>P</strong>: Preprint;
-  <strong>Media Coverage</strong>: Press Release with Links; <strong>Featured</strong>: Featured as Issue Cover.
+  *: Corresponding Author<br>
+  †: Equal Contribution<br>
+  ‡: Authors Ordered Alphabetically<br>
+  §: <span class="mentee">Students and Postdocs Mentored</span><br>
+  <strong>C</strong>: Conference Paper<br>
+  <strong>R</strong>: Technical Report<br>
+  <strong>P</strong>: Preprint<br>
+  <strong>Media Coverage</strong>: Press Release with Links<br>
+  <strong>Featured</strong>: Featured as Issue Cover
 </div>
 
 <!-- Preprint -->
 
+<!--
 <h2 id="preprint" class="pub-sec">Preprint</h2>
 
 <div class="pub">
@@ -27,10 +33,20 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     <span class="pub-links"><a href="https://doi.org/10.5194/egusphere-2025-3397" target="_blank">Full Text</a>.</span>
   </div>
 </div>
+-->
 
 <!-- 2025 -->
 
 <h2 id="y2025" class="pub-year">2025</h2>
+
+<div class="pub">
+  <div class="pub-line">
+    <span class="pub-num">79.</span>
+    <span class="mentee">Huang, Y.</span>§, <span class="me">Wang, C.</span>*, Danzig, T., Lee, T. R., &amp; Pal, S. (2025).
+    Urban heat forecasts in small cities: Evaluation of a high-resolution operational numerical weather prediction model.
+    <span class="pub-title">Geoscientific Model Development</span>, in press.
+  </div>
+</div>
 
 <div class="pub">
   <div class="pub-line">
