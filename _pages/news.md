@@ -10,6 +10,13 @@ author_profile: true
 <!-- 2025 -->
 
   <div class="news-item">
+    <div class="news-date">2025-11-19</div>
+    <div class="news-body">
+      <strong>[Accomplishment]</strong> Jessica Leffel recently won the University of Oklahoma 2025 GIS Day Crowd Favorite Poster Award. Congratulations, Jessica!
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2025-11-06</div>
     <div class="news-body">
       <strong>[New Publication]</strong> Our new paper on urban climate network science, "<a href="https://doi.org/10.1098/rsta.2025.0041" target="_blank">Causal network and dynamic synchronization of urban thermal environment</a>", is published in <em>Philosophical Transactions of the Royal Society A: Mathematical, Physical & Engineering Sciences</em> (IF: 3.7).
