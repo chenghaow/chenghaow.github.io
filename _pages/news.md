@@ -10,6 +10,13 @@ author_profile: true
 <!-- 2025 -->
 
   <div class="news-item">
+    <div class="news-date">2025-11-21</div>
+    <div class="news-body">
+      <strong>[Accomplishment]</strong> Liam Thompson recently received the University of Oklahoma College of Atmospheric and Geographic Sciences Outstanding Senior Award. Congratulations, Liam!
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2025-11-19</div>
     <div class="news-body">
       <strong>[Accomplishment]</strong> Jessica Leffel recently won the University of Oklahoma 2025 GIS Day Crowd Favorite Poster Award. Congratulations, Jessica!
