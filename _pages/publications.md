@@ -41,6 +41,17 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <div class="pub">
   <div class="pub-line">
+    <span class="pub-num">80.</span>
+    Zhou, Z.†, Wang, X.†, Yan, Y., Mijiddorj, L., <span class="mentee">Ding, Y.</span>§, 
+    Beringer, T., Khiabani, P. M., Jentner, W. G., Hu, X.-M., 
+    <span class="me">Wang, C.</span>, Carroll, B. M., Xue, M., Ebert, D., Li, B., &amp; Weng, B.* (2025).
+    AIMNET: An IoT-empowered digital twin for continuous gas emission monitoring and early hazard detection.
+    <span class="pub-title">IEEE Internet of Things Magazine</span>, in press.
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-line">
     <span class="pub-num">79.</span>
     <span class="mentee">Huang, Y.</span>§, <span class="me">Wang, C.</span>*, Danzig, T., Lee, T. R., &amp; Pal, S. (2025).
     Urban heat forecasts in small cities: Evaluation of a high-resolution operational numerical weather prediction model.
