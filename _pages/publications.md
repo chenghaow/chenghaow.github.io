@@ -47,6 +47,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     <span class="me">Wang, C.</span>, Carroll, B. M., Xue, M., Ebert, D., Li, B., &amp; Weng, B.* (2025).
     AIMNET: An IoT-empowered digital twin for continuous gas emission monitoring and early hazard detection.
     <span class="pub-title">IEEE Internet of Things Magazine</span>, in press.
+    <span class="pub-links"><a href="https://doi.org/10.1109/MIOT.2025.3638271" target="_blank">Full Text</a>.</span>
   </div>
 </div>
 
@@ -80,6 +81,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     Kashtan, Y., <span class="me">Wang, C.</span>, Nadeau, K., C., &amp; Jackson, R. B.* (2025).
     Integrating indoor and outdoor nitrogen dioxide exposures in U.S. homes nationally by ZIP code.
     <span class="pub-title">PNAS Nexus</span>, in press.
+    <span class="pub-links"><a href="https://doi.org/10.1093/pnasnexus/pgaf341" target="_blank">Full Text</a>.</span>
   </div>
 </div>
 
