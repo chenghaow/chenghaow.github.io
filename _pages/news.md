@@ -152,13 +152,6 @@ author_profile: true
   <div class="news-item">
     <div class="news-date">2025-04-03</div>
     <div class="news-body">
-      <strong>[New Publication]</strong> Our new paper on global forest temperature variability, "<a href="https://doi.org/10.1016/j.ecolind.2025.113545" target="_blank">Satellite-driven evidence of forest-induced temperature variability and its biophysical and biogeochemical pathways across latitudes</a>", is published in <em>Ecological Indicators</em> (IF: 7.0).
-    </div>
-  </div>
-
-  <div class="news-item">
-    <div class="news-date">2025-04-03</div>
-    <div class="news-body">
       <strong>[New Publication]</strong> Our new paper on WRF-LES methane plume modeling, "<a href="https://doi.org/10.1029/2024JD042317" target="_blank">Observation and simulation of methane plumes during the morning boundary layer transition</a>", is published in <em>Journal of Geophysical Research: Atmospheres</em> (IF: 3.8).
     </div>
   </div>
