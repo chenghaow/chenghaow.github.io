@@ -54,15 +54,6 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">79.</span>
-    <span class="mentee">Huang, Y.</span>§, <span class="me">Wang, C.</span>*, Danzig, T., Lee, T. R., &amp; Pal, S. (2025).
-    Urban heat forecasts in small cities: Evaluation of a high-resolution operational numerical weather prediction model.
-    <span class="pub-title">Geoscientific Model Development</span>, in press.
-  </div>
-</div>
-
-<div class="pub">
-  <div class="pub-line">
-    <span class="pub-num">78.</span>
     Ouyang, Z., Jackson, R. B.*, Saunois, M., Canadell, J. G., Zhao, Y., Morfopoulos, C., Krummel, P. B., 
     Patra, P. K., Peters, G. P., Dennison, F., Gasser, T., Archibald, A. T. ‡, Arora, V.‡, Baudoin, G.‡, 
     Chandra, N.‡, Ciais, P.‡, Davis, S. J.‡, Feron, S.‡, Guo, F.‡, Hauglustaine, D.‡, Jones, C. D.‡, 
@@ -77,7 +68,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <div class="pub">
   <div class="pub-line">
-    <span class="pub-num">77.</span>
+    <span class="pub-num">78.</span>
     Kashtan, Y., <span class="me">Wang, C.</span>, Nadeau, K., C., &amp; Jackson, R. B.* (2025).
     Integrating indoor and outdoor nitrogen dioxide exposures in U.S. homes nationally by ZIP code.
     <span class="pub-title">PNAS Nexus</span>, in press.
@@ -85,6 +76,15 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
   </div>
 </div>
 
+<div class="pub">
+  <div class="pub-line">
+    <span class="pub-num">77.</span>
+    <span class="mentee">Huang, Y.</span>§, <span class="me">Wang, C.</span>*, Danzig, T., Lee, T. R., &amp; Pal, S. (2025).
+    Urban heat forecasts in small cities: Evaluation of a high-resolution operational numerical weather prediction model.
+    <span class="pub-title">Geoscientific Model Development</span>, 18, 9237–9256.
+    <span class="pub-links"><a href="https://doi.org/10.5194/gmd-18-9237-2025" target="_blank">Full Text</a>.</span>
+  </div>
+</div>
 
 <div class="pub">
   <div class="pub-line">

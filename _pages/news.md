@@ -10,6 +10,13 @@ author_profile: true
 <!-- 2025 -->
 
   <div class="news-item">
+    <div class="news-date">2025-11-28</div>
+    <div class="news-body">
+      <strong>[New Publication]</strong> Our new paper on urban heat forecast evaluation, "<a href="https://doi.org/10.5194/gmd-18-9237-2025" target="_blank">Urban heat forecasts in small cities: Evaluation of a high-resolution operational numerical weather prediction model</a>", is published in <em>Geoscientific Model Development</em> (IF: 4.9). This work was led by Ph.D. student Yuqi Huang. Congratulations, Yuqi!
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2025-11-21</div>
     <div class="news-body">
       <strong>[Accomplishment]</strong> Liam Thompson recently received the University of Oklahoma College of Atmospheric and Geographic Sciences Outstanding Senior Award. Congratulations, Liam!
