@@ -38,9 +38,9 @@ author_profile: false   # keeps the right sidebar (or true)
 
 The **Bibliography Committee** is one of the [committees](https://urban-climate.org/current-board/) of the [International Association for Urban Climate (IAUC)](https://urban-climate.org/), an international organization that seeks membership from those with scientific, scholarly, and technical interests and responsibilities in the broad field of urban climate.  
 
-The main objective of the IAUC Bibliography Committee is to regularly review research advances in all aspects of urban climate and deliver them to the international community via IAUC Newsletters. As a global team of **19 committee members** from different countries, we currently cover **over 100 peer-reviewed journals** in our database.  
+The main objective of the IAUC Bibliography Committee is to regularly review research advances in all aspects of urban climate and deliver them to the international community via IAUC Newsletters. A history of the committee can be found [here](https://urban-climate.org/bibliography/). As a global team of **19 committee members** from different countries, we currently cover **over 100 peer-reviewed journals** in our database.  
 
-The full searchable bibliography database, which contains more than 13,000 records from 1996 to the present, is publicly available [here](https://urban-climate.org/bibliography/).  
+The full searchable bibliography database, which contains more than 13,000 records from 1996 to the present, is publicly available [here](https://www.zotero.org/groups/5250413/iaucbibliography/library).  
 
 **We are always seeking researchers at all career stages, particularly early-career professionals, to join our committee and actively contribute to the IAUC community.** If you are interested in joining or would like to acquire further details, please contact Dr. Chenghao Wang at [chenghao.wang@ou.edu](mailto:chenghao.wang@ou.edu).
 

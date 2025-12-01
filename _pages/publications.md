@@ -65,7 +65,6 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
   </div>
 </div>
 
-
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">78.</span>
