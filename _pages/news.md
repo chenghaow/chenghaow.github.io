@@ -10,6 +10,19 @@ author_profile: true
 <!-- 2025 -->
 
   <div class="news-item">
+    <div class="news-date">2025-12-01</div>
+    <div class="news-body">
+      <strong>[Conference Presentations]</strong> The SURF Lab will be attending the American Geophysical Union (AGU) 2025 Annual Meeting in New Orleans, LA (Dec 15–19, 2025). You can meet us at the following sessions and presentations:
+        <ul>
+          <li> <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1847574" target="_blank">Meteorological and emission drivers of compound heat and ozone pollution episodes in the Southern Great Plains</a> (Oral, Invited) — Presenter: Chenghao Wang; Session A14G-02, Monday 16:30-16:45, Room 272-273.</li>
+          <li> <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1937313" target="_blank">Integrating a physics-based urban tree module into the mesoscale Weather Research and Forecasting model for enhanced urban hydrometeorological simulations</a> (Oral) — Presenter: Yuqi Huang; Session GC21A-04, Tuesday 09:00-09:10, Room 203-205.</li>
+          <li> <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1884872" target="_blank">From cells to cities: Extending Kleiber’s law from biology to urban systems</a> (Poster) — Presenter: Mingzhen Lu; Session GC41M-0811, Thursday 08:30-12:00, Hall EFG.</li>
+          <li> Sessions: Advancing Representation of Urban Processes and Dynamics in Models Across Scales</a> — <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/261304" target="_blank">Oral I (GC21A)</a>: Tuesday 09:00-09:10, Room 203-205; <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/261313" target="_blank">Oral II (GC22B)</a>: Tuesday 10:30-12:00, Room 203-205; <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/249048" target="_blank">Poster III (GC41G)</a>, Thursday 08:30-12:00, Hall EFG.</li>
+        </ul>
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2025-11-28</div>
     <div class="news-body">
       <strong>[New Publication]</strong> Our new paper on urban heat forecast evaluation, "<a href="https://doi.org/10.5194/gmd-18-9237-2025" target="_blank">Urban heat forecasts in small cities: Evaluation of a high-resolution operational numerical weather prediction model</a>", is published in <em>Geoscientific Model Development</em> (IF: 4.9). This work was led by Ph.D. student Yuqi Huang. Congratulations, Yuqi!
