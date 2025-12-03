@@ -70,9 +70,13 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     <span class="pub-num">78.</span>
     Kashtan, Y., <span class="me">Wang, C.</span>, Nadeau, K., C., &amp; Jackson, R. B.* (2025).
     Integrating indoor and outdoor nitrogen dioxide exposures in U.S. homes nationally by ZIP code.
-    <span class="pub-title">PNAS Nexus</span>, in press.
+    <span class="pub-title">PNAS Nexus</span>, 4(12), pgaf341.
     <span class="pub-links"><a href="https://doi.org/10.1093/pnasnexus/pgaf341" target="_blank">Full Text</a>.</span>
   </div>
+  <div class="media">[<strong>Media coverage:</strong> 
+  <a href="https://woods.stanford.edu/news/air-inside-your-home-more-dangerous-air-outside-it" target="_blank">Stanford Woods Institute for the Environment</a>, 
+  <a href="https://medicalxpress.com/news/2025-12-nitrogen-dioxide-exposure-gas-stoves.html" target="_blank">Medical Xpress</a>, 
+  <a href="https://studyfinds.org/first-nationwide-gas-stove-study-maps-hidden-nitrogen-dioxide-exposure/" target="_blank">StudyFinds</a>.]</div>
 </div>
 
 <div class="pub">
