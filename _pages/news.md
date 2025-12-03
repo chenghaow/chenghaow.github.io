@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="news-list">
 
-<!-- 2025 -->
+<!-- conference activities (live) below this line -->
 
   <div class="news-item">
     <div class="news-date">2025-12-01</div>
@@ -19,6 +19,18 @@ author_profile: true
           <li> <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1884872" target="_blank">From cells to cities: Extending Kleiber’s law from biology to urban systems</a> (Poster) — Presenter: Mingzhen Lu; Session GC41M-0811, Thursday 08:30-12:00, Hall EFG.</li>
           <li> Sessions: Advancing Representation of Urban Processes and Dynamics in Models Across Scales</a> — <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/261304" target="_blank">Oral I (GC21A)</a>: Tuesday 09:00-09:10, Room 203-205; <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/261313" target="_blank">Oral II (GC22B)</a>: Tuesday 10:30-12:00, Room 203-205; <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/249048" target="_blank">Poster III (GC41G)</a>, Thursday 08:30-12:00, Hall EFG.</li>
         </ul>
+    </div>
+  </div>
+
+<!-- conference activities (live) above this line -->
+
+<hr class="news-sep">
+<!-- 2025 -->
+
+  <div class="news-item">
+    <div class="news-date">2025-12-02</div>
+    <div class="news-body">
+      <strong>[New Publication]</strong> Our new paper on stove-induced indoor air pollution, "<a href="https://doi.org/10.5194/gmd-18-9237-2025" target="_blank">Integrating indoor and outdoor nitrogen dioxide exposures in US homes nationally by ZIP code</a>", is published in <em>PNAS Nexus</em> (IF: 3.8).
     </div>
   </div>
 
