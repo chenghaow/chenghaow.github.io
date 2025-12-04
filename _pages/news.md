@@ -17,13 +17,14 @@ author_profile: true
           <li> <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1847574" target="_blank">Meteorological and emission drivers of compound heat and ozone pollution episodes in the Southern Great Plains</a> (Oral, Invited) — Presenter: Chenghao Wang; Session A14G-02, Monday 16:30-16:45, Room 272-273.</li>
           <li> <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1937313" target="_blank">Integrating a physics-based urban tree module into the mesoscale Weather Research and Forecasting model for enhanced urban hydrometeorological simulations</a> (Oral) — Presenter: Yuqi Huang; Session GC21A-04, Tuesday 09:00-09:10, Room 203-205.</li>
           <li> <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1884872" target="_blank">From cells to cities: Extending Kleiber’s law from biology to urban systems</a> (Poster) — Presenter: Mingzhen Lu; Session GC41M-0811, Thursday 08:30-12:00, Hall EFG.</li>
-          <li> Sessions: Advancing Representation of Urban Processes and Dynamics in Models Across Scales</a> — <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/261304" target="_blank">Oral I (GC21A)</a>: Tuesday 09:00-09:10, Room 203-205; <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/261313" target="_blank">Oral II (GC22B)</a>: Tuesday 10:30-12:00, Room 203-205; <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/249048" target="_blank">Poster III (GC41G)</a>, Thursday 08:30-12:00, Hall EFG.</li>
+          <li> Sessions: Advancing Representation of Urban Processes and Dynamics in Models Across Scales — <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/261304" target="_blank">Oral I (GC21A)</a>: Tuesday 09:00-09:10, Room 203-205; <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/261313" target="_blank">Oral II (GC22B)</a>: Tuesday 10:30-12:00, Room 203-205; <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/249048" target="_blank">Poster III (GC41G)</a>, Thursday 08:30-12:00, Hall EFG.</li>
         </ul>
     </div>
   </div>
 
 <!-- conference activities (live) above this line -->
 
+<div class="news-year">2025</div>
 <hr class="news-sep">
 <!-- 2025 -->
 
@@ -210,6 +211,7 @@ author_profile: true
   </div>
 
 
+<div class="news-year">2024</div>
 <hr class="news-sep">
 <!-- 2024 -->
 
@@ -396,6 +398,7 @@ author_profile: true
   </div>
 
 
+<div class="news-year">2023</div>
 <hr class="news-sep">
 <!-- 2023 -->
 
@@ -463,7 +466,7 @@ author_profile: true
   </div>
 
 
-
+<div class="news-year">2022</div>
 <hr class="news-sep">
 <!-- 2022 -->
 

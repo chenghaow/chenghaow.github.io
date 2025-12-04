@@ -93,5 +93,13 @@
 .news-sep {
   border: 0;
   border-top: 1px solid #e5e7eb;  /* light gray line */
-  margin: 1rem 0;                 /* space around the rule */
+  margin: 0.15rem 0;                 /* space around the rule */
+}
+
+.news-year {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-top: 1.2rem;
+  margin-bottom: 0.1rem;
+  text-align: left;
 }
