@@ -29,6 +29,13 @@ author_profile: true
 <!-- 2025 -->
 
   <div class="news-item">
+    <div class="news-date">2025-12-04</div>
+    <div class="news-body">
+      <strong>[Accomplishment]</strong> Yu Ding recently received the Graduate College Robberson Travel Grant. Congratulations, Yu!
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2025-12-02</div>
     <div class="news-body">
       <strong>[New Publication]</strong> Our new paper on stove-induced indoor air pollution, "<a href="https://doi.org/10.5194/gmd-18-9237-2025" target="_blank">Integrating indoor and outdoor nitrogen dioxide exposures in US homes nationally by ZIP code</a>", is published in <em>PNAS Nexus</em> (IF: 3.8).
