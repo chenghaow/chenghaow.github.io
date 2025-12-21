@@ -8,16 +8,21 @@ author_profile: true
 <div class="news-list">
 
 <!-- conference activities (live) below this line -->
+<div class="news-year">Upcoming conference</div>
+<hr class="news-sep">
 
   <div class="news-item">
-    <div class="news-date">2025-12-01</div>
+    <div class="news-date">2025-12-21</div>
     <div class="news-body">
-      <strong>[Conference Presentations]</strong> The SURF Lab will be attending the American Geophysical Union (AGU) 2025 Annual Meeting in New Orleans, LA (Dec 15–19, 2025). You can meet us at the following sessions and presentations:
+      <strong>[Conference Presentations]</strong> The SURF Lab will be attending the 106th American Meteorological Society (AMS) Annual Meeting in Houston, TX (Jan 25–29, 2026). You can meet us at the following sessions and presentations:
         <ul>
-          <li> <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1847574" target="_blank">Meteorological and emission drivers of compound heat and ozone pollution episodes in the Southern Great Plains</a> (Oral, Invited) — Presenter: Chenghao Wang; Session A14G-02, Monday 16:30-16:45, Room 272-273.</li>
-          <li> <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1937313" target="_blank">Integrating a physics-based urban tree module into the mesoscale Weather Research and Forecasting model for enhanced urban hydrometeorological simulations</a> (Oral) — Presenter: Yuqi Huang; Session GC21A-04, Tuesday 09:00-09:10, Room 203-205.</li>
-          <li> <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1884872" target="_blank">From cells to cities: Extending Kleiber’s law from biology to urban systems</a> (Poster) — Presenter: Mingzhen Lu; Session GC41M-0811, Thursday 08:30-12:00, Hall EFG.</li>
-          <li> Sessions: Advancing Representation of Urban Processes and Dynamics in Models Across Scales — <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/261304" target="_blank">Oral I (GC21A)</a>: Tuesday 09:00-09:10, Room 203-205; <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/261313" target="_blank">Oral II (GC22B)</a>: Tuesday 10:30-12:00, Room 203-205; <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/249048" target="_blank">Poster III (GC41G)</a>, Thursday 08:30-12:00, Hall EFG.</li>
+          <li> <a href="https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Program/1888" target="_blank">24th Joint Conference on the Applications of Air Pollution Meteorology with the A&WMA</a> — Conference Chair: Chenghao Wang; Sessions 1–9 (including 5 joint sessions) and 2 Poster Sessions, Monday–Tuesday in Room 342D, Wednesday in Room 371B.</li>
+          <li> <a href="https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/473678" target="_blank">Multi-Sensor and Multi-Model Investigation of Methane Plumes from a Wastewater Treatment Plant to Improve Emission Inversion during the Morning Boundary Layer Transition</a> (Oral) — Presenter: Yu Ding; Monday 9:45-10:00, Room 342D.</li>
+          <li> <a href="https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/471441" target="_blank">Introduction to SCENICS: Stereoscopy of Multi-scale Chemical Exchanges and Interactions between a City and its Surroundings</a> (Oral, Invited) — Presenter: Kelley Barsanti; Monday 11:00-11:15, Room 332C.</li>
+          <li> <a href="https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/472700" target="_blank">An Enhanced Lagrangian Stochastic Footprint Modeling for Urban Canopies</a> (Oral) — Presenter: Yu Ding; Monday 11:30-11:45, Room 342D.</li>
+          <li> <a href="https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/477421" target="_blank">A Systematic Review of Numerical Models on Indoor-Outdoor Pollutant Exchange in Urban Environments</a> (Oral) — Presenter: Cathleen Ariella Simatupang; Monday 17:15-17:30, Room 342D.</li>
+          <li> <a href="https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/473481" target="_blank">A Novel Approach to Nocturnal Heat Risk Analysis Using Machine Learning and the Unrestricted Mesoscale Analysis</a> (Poster) — Presenter: Elizabeth Spicer; Tuesday 15:00-16:30, Hall B3.</li>
+          <li> <a href="https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Program/1888" target="_blank">Session: Intersection of Wildfire and Power Grid Safety (Joint between the 17th Conference on Weather, Water, Climate, and the New Energy Economy and the Second Conference on Fire Weather, Technology and Risk)</a> — Session Chair: Chenghao Wang, Wednesday 13:45-15:00, Room 361A.</li>          
         </ul>
     </div>
   </div>
@@ -27,6 +32,13 @@ author_profile: true
 <div class="news-year">2025</div>
 <hr class="news-sep">
 <!-- 2025 -->
+
+  <div class="news-item">
+    <div class="news-date">2025-12-18</div>
+    <div class="news-body">
+      <strong>[New Publication]</strong> Our new paper on hydrogen accounting, "<a href="https://doi.org/10.1038/s41586-025-09806-1" target="_blank">The global hydrogen budget</a>", is published in <em>Nature</em> (IF: 48.5).
+    </div>
+  </div>
 
   <div class="news-item">
     <div class="news-date">2025-12-04</div>
@@ -42,6 +54,19 @@ author_profile: true
     </div>
   </div>
 
+  <div class="news-item">
+    <div class="news-date">2025-12-01</div>
+    <div class="news-body">
+      <strong>[Conference Presentations]</strong> The SURF Lab will be attending the American Geophysical Union (AGU) 2025 Annual Meeting in New Orleans, LA (Dec 15–19, 2025). You can meet us at the following sessions and presentations:
+        <ul>
+          <li> <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1847574" target="_blank">Meteorological and emission drivers of compound heat and ozone pollution episodes in the Southern Great Plains</a> (Oral, Invited) — Presenter: Chenghao Wang; Session A14G-02, Monday 16:30-16:45, Room 272-273.</li>
+          <li> <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1937313" target="_blank">Integrating a physics-based urban tree module into the mesoscale Weather Research and Forecasting model for enhanced urban hydrometeorological simulations</a> (Oral) — Presenter: Yuqi Huang; Session GC21A-04, Tuesday 09:00-09:10, Room 203-205.</li>
+          <li> <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1884872" target="_blank">From cells to cities: Extending Kleiber’s law from biology to urban systems</a> (Poster) — Presenter: Mingzhen Lu; Session GC41M-0811, Thursday 08:30-12:00, Hall EFG.</li>
+          <li> Sessions: Advancing Representation of Urban Processes and Dynamics in Models Across Scales — <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/261304" target="_blank">Oral I (GC21A)</a>: Tuesday 09:00-09:10, Room 203-205; <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/261313" target="_blank">Oral II (GC22B)</a>: Tuesday 10:30-12:00, Room 203-205; <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/249048" target="_blank">Poster III (GC41G)</a>, Thursday 08:30-12:00, Hall EFG.</li>
+        </ul>
+    </div>
+  </div>
+  
   <div class="news-item">
     <div class="news-date">2025-11-28</div>
     <div class="news-body">

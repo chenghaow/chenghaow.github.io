@@ -61,8 +61,17 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     Nable, J. E. M. S.‡, O'Sullivan, M.‡, Pétron, G.‡, Poulter, B.‡, Rogelj, J.‡, Sandoval Calle, D.‡, 
     Smith, P.‡, Suntharalingam, P.‡, Tian, H.‡, <span class="me">Wang, C.</span>‡, & Wiltshire, A.‡ 
     (2025). The global hydrogen budget.
-    <span class="pub-title">Nature</span>, in press.
+    <span class="pub-title">Nature</span>, 648, 616–624.
+    <span class="pub-links"><a href="https://doi.org/10.1038/s41586-025-09806-1" target="_blank">Full Text</a>.</span>
   </div>
+  <div class="media">[<strong>Media coverage:</strong> 
+  <a href="https://apnews.com/press-release/pr-newswire/auburn-stanford-researchers-lead-breakthrough-study-revealing-global-hydrogen-economy-must-reduce-leakage-methane-emission-for-long-term-adoption-sustainability-afecf3b545b44266708b9004bede2bc7" target="_blank">AP News</a>, 
+  <a href="https://sustainability.stanford.edu/news/overlooked-hydrogen-emissions-are-heating-earth-and-supercharging-methane" target="_blank">Stanford Doerr School of Sustainability</a>, 
+  <a href="https://www.dailysabah.com/business/energy/hydrogen-indirectly-contributes-to-global-warming-study-finds" target="_blank">Daily Sabah</a>,
+  <a href="https://www.miragenews.com/hidden-hydrogen-fuels-global-warming-boosts-1592059/" target="_blank">Mirage.News</a>,
+  <a href="https://scienmag.com/unveiling-the-global-hydrogen-cycle-explained/" target="_blank">Scienmag</a>,
+  <a href="https://www.sciencealert.com/hydrogen-isnt-as-climate-friendly-as-we-thought-concerning-study-finds" target="_blank">ScienceAlert</a>,
+  <a href="https://www.earth.com/news/rising-hydrogen-emissions-are-quietly-heating-the-planet/" target="_blank">Earth.com</a>.]</div>
 </div>
 
 <div class="pub">
@@ -76,7 +85,13 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
   <div class="media">[<strong>Media coverage:</strong> 
   <a href="https://woods.stanford.edu/news/air-inside-your-home-more-dangerous-air-outside-it" target="_blank">Stanford Woods Institute for the Environment</a>, 
   <a href="https://medicalxpress.com/news/2025-12-nitrogen-dioxide-exposure-gas-stoves.html" target="_blank">Medical Xpress</a>, 
-  <a href="https://studyfinds.org/first-nationwide-gas-stove-study-maps-hidden-nitrogen-dioxide-exposure/" target="_blank">StudyFinds</a>.]</div>
+  <a href="https://studyfinds.org/first-nationwide-gas-stove-study-maps-hidden-nitrogen-dioxide-exposure/" target="_blank">StudyFinds</a>,
+  <a href="https://www.sfgate.com/bayarea/article/indoor-health-hazard-californians-overlook-21223909.php" target="_blank">SFGATE</a>,
+  <a href="https://www.cpr.org/2025/12/05/colorado-gas-stove-labeling-law-lawsuit/" target="_blank">CPR News</a>,
+  <a href="https://insideclimatenews.org/news/10122025/gas-stoves-nitrogen-dioxide-exposure/" target="_blank">Inside Climate News</a>,
+  <a href="https://www.womenshealthmag.com/health/a69674395/gas-stove-indoor-air-pollution-asthma/" target="_blank">Women's Health</a>,
+  <a href="https://nypost.com/2025/12/11/health/common-appliance-increasing-risk-of-lung-cancer-and-diabetes/" target="_blank">New York Post</a>,
+  <a href="https://www.smithsonianmag.com/smart-news/gas-stoves-are-poisoning-americans-by-releasing-toxic-fumes-associated-with-asthma-and-lung-cancer-180987836/" target="_blank">Smithsonian Magazine</a>.]</div>
 </div>
 
 <div class="pub">

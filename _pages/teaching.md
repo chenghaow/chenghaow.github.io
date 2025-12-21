@@ -29,7 +29,24 @@ author_profile: true
 
 ---
 
+### 2022–present (University of Oklahoma):
+
 <div class="teach">
+
+  <div class="teach__item">
+    <div class="teach__term">2027 Spring</div>
+    <div class="teach__course">METR 5543: Global Climate Change <strong>(redesigned course)</strong></div>
+  </div>
+
+  <div class="teach__item">
+    <div class="teach__term">2026 Fall</div>
+    <div class="teach__course">GEOG 3023-001: Principles of Physical Geography</div>
+  </div>
+
+  <div class="teach__item">
+    <div class="teach__term">2026 Fall</div>
+    <div class="teach__course">GEOG/METR 4043/5043-001: Urban Climatology</div>
+  </div>
 
   <div class="teach__item">
     <div class="teach__term">2026 Spring</div>
@@ -88,7 +105,7 @@ author_profile: true
 
   <div class="teach__item">
     <div class="teach__term">2023 Fall</div>
-    <div class="teach__course">GEOG 3023-001: Principles of Physical Geography</div>
+    <div class="teach__course">GEOG 3023-001: Principles of Physical Geography <strong>(redesigned course)</strong></div>
   </div>
 
   <div class="teach__item">
@@ -125,6 +142,11 @@ author_profile: true
 ### Guest Lectures & Short Courses
 
 <div class="teach">
+
+  <div class="teach__item">
+    <div class="teach__term">2025 Nov</div>
+    <div class="teach__course">CFMCG08A05: Urban Adaptation and Innovation (University of Groningen)</div>
+  </div>
 
   <div class="teach__item">
     <div class="teach__term">2024 Nov</div>
