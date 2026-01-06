@@ -35,7 +35,7 @@ author_profile: true
 
   <div class="teach__item">
     <div class="teach__term">2027 Spring</div>
-    <div class="teach__course">METR 5543: Global Climate Change <strong>(redesigned course)</strong></div>
+    <div class="teach__course">METR 5543: Global Climate Change <strong>(redesigned course)</strong> (upcoming) </div>
   </div>
 
   <div class="teach__item">
@@ -142,6 +142,11 @@ author_profile: true
 ### Guest Lectures & Short Courses
 
 <div class="teach">
+
+  <div class="teach__item">
+    <div class="teach__term">2026 Apr</div>
+    <div class="teach__course">LAND ARC 375: Design with Microclimate (University of Wisconsin–Madison) (upcoming) </div>
+  </div>
 
   <div class="teach__item">
     <div class="teach__term">2025 Nov</div>
