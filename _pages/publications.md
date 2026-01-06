@@ -35,9 +35,9 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 </div>
 -->
 
-<!-- 2025 -->
+<!-- 2026 -->
 
-<h2 id="y2025" class="pub-year">2025</h2>
+<h2 id="y2026" class="pub-year">2026</h2>
 
 <div class="pub">
   <div class="pub-line">
@@ -46,10 +46,14 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     Beringer, T., Khiabani, P. M., Jentner, W. G., Hu, X.-M., 
     <span class="me">Wang, C.</span>, Carroll, B. M., Xue, M., Ebert, D., Li, B., &amp; Weng, B.* (2025).
     AIMNET: An IoT-empowered digital twin for continuous gas emission monitoring and early hazard detection.
-    <span class="pub-title">IEEE Internet of Things Magazine</span>, in press.
+    <span class="pub-title">IEEE Internet of Things Magazine</span>, online.
     <span class="pub-links"><a href="https://doi.org/10.1109/MIOT.2025.3638271" target="_blank">Full Text</a>.</span>
   </div>
 </div>
+
+<!-- 2025 -->
+
+<h2 id="y2025" class="pub-year">2025</h2>
 
 <div class="pub">
   <div class="pub-line">

@@ -29,6 +29,18 @@ author_profile: true
 
 <!-- conference activities (live) above this line -->
 
+<div class="news-year">2026</div>
+<hr class="news-sep">
+<!-- 2026 -->
+
+  <div class="news-item">
+    <div class="news-date">2026-01-05</div>
+    <div class="news-body">
+      <strong>[New Publication]</strong> Our new paper on methane emission monitoring, "<a href="https://doi.org/10.1109/MIOT.2025.3638271" target="_blank">AIMNET: An IoT-empowered digital twin for continuous gas emission monitoring and early hazard detection</a>", is published in <em>IEEE Internet of Things Magazine</em>.
+    </div>
+  </div>
+
+
 <div class="news-year">2025</div>
 <hr class="news-sep">
 <!-- 2025 -->
