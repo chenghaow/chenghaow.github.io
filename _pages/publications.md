@@ -56,6 +56,10 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <h2 id="y2025" class="pub-year">2025</h2>
 
 <div class="pub">
+    (Journal articles: 16)
+</div>
+
+<div class="pub">
   <div class="pub-line">
     <span class="pub-num">79.</span>
     Ouyang, Z., Jackson, R. B.*, Saunois, M., Canadell, J. G., Zhao, Y., Morfopoulos, C., Krummel, P. B., 
@@ -268,6 +272,10 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <h2 id="y2024" class="pub-year">2024</h2>
 
 <div class="pub">
+    (Journal articles: 15; Reports: 1)
+</div>
+
+<div class="pub">
   <div class="pub-line">
     <span class="pub-num">63.</span>
     <span class="me">Wang, C.</span>*, Deng, C., Horsey, H., Reyna, J. L., Liu, D., Feron, S., Cordero, R. R., Song, J., &amp; Jackson, R. B. (2024).
@@ -471,6 +479,10 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <h2 id="y2023" class="pub-year">2023</h2>
 
 <div class="pub">
+    (Journal articles: 4; Reports: 1)
+</div>
+
+<div class="pub">
   <div class="pub-line">
     <span class="pub-num">48.</span>
     Dong, Y., Liu, J., Cheng, X., Fan, F., Lin, W., Zhou, C., Wang, S.*, Xiao, S.*, <span class="me">Wang, C.</span>*, Li, Y., &amp; Li, C. (2023)
@@ -539,6 +551,10 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <!-- 2022 -->
 
 <h2 id="y2022" class="pub-year">2022</h2>
+
+<div class="pub">
+    (Journal articles: 10; Reports: 1; Conference papers: 1)
+</div>
 
 <div class="pub">
   <div class="pub-line">
@@ -707,6 +723,10 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <h2 id="y2021" class="pub-year">2021</h2>
 
 <div class="pub">
+    (Journal articles: 10; Reports: 3)
+</div>
+
+<div class="pub">
   <div class="pub-line">
     <span class="pub-num">34.</span>
     <span class="me">Wang, C.</span>*, Sierra Huertas, D., Rowe, J. W., Finkelstein, R., Carstensen, L. L., &amp; Jackson, R. B. (2021).
@@ -866,6 +886,10 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <h2 id="y2020" class="pub-year">2020</h2>
 
 <div class="pub">
+    (Journal articles: 4; Reports: 1; Conference papers: 1)
+</div>
+
+<div class="pub">
   <div class="pub-line">
     <span class="pub-num">R2.</span>
     <span class="me">Wang, C.</span>, Wang, Z.-H., &amp; Kaloush, K. E. (2020).
@@ -949,6 +973,10 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <h2 id="y2019" class="pub-year">2019</h2>
 
 <div class="pub">
+    (Journal articles: 3)
+</div>
+
+<div class="pub">
   <div class="pub-line">
     <span class="pub-num">20.</span>
     Yang, J.*<sup>,</sup>†, Hu, L.*<sup>,</sup>†, &amp; <span class="me">Wang, C.</span> (2019).
@@ -990,6 +1018,10 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <!-- 2018 -->
 
 <h2 id="y2018" class="pub-year">2018</h2>
+
+<div class="pub">
+    (Journal articles: 4)
+</div>
 
 <div class="pub">
   <div class="pub-line">
@@ -1042,6 +1074,10 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <h2 id="y2017" class="pub-year">2017</h2>
 
 <div class="pub">
+    (Journal articles: 3; Reports: 1)
+</div>
+
+<div class="pub">
   <div class="pub-line">
     <span class="pub-num">R1.</span>
     Wang, Z.-H., Kaloush, K. E., &amp; <span class="me">Wang, C.</span> (2017). 
@@ -1089,6 +1125,10 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <!-- 2016 -->
 
 <h2 id="y2016" class="pub-year">2016</h2>
+
+<div class="pub">
+    (Journal articles: 4)
+</div>
 
 <div class="pub">
   <div class="pub-line">
