@@ -22,7 +22,7 @@ author_profile: true
           <li> <a href="https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/472700" target="_blank">An Enhanced Lagrangian Stochastic Footprint Modeling for Urban Canopies</a> (Oral) — Presenter: Yu Ding; Monday 11:30-11:45, Room 342D.</li>
           <li> <a href="https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/477421" target="_blank">A Systematic Review of Numerical Models on Indoor-Outdoor Pollutant Exchange in Urban Environments</a> (Oral) — Presenter: Cathleen Ariella Simatupang; Monday 17:15-17:30, Room 342D.</li>
           <li> <a href="https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/473481" target="_blank">A Novel Approach to Nocturnal Heat Risk Analysis Using Machine Learning and the Unrestricted Mesoscale Analysis</a> (Poster) — Presenter: Elizabeth Spicer; Tuesday 15:00-16:30, Hall B3.</li>
-          <li> <a href="https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Program/1888" target="_blank">Session: Intersection of Wildfire and Power Grid Safety (Joint between the 17th Conference on Weather, Water, Climate, and the New Energy Economy and the Second Conference on Fire Weather, Technology and Risk)</a> — Session Chair: Chenghao Wang, Wednesday 13:45-15:00, Room 361A.</li>          
+          <li> <a href="https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Session/73350" target="_blank">Session: Intersection of Wildfire and Power Grid Safety (Joint between the 17th Conference on Weather, Water, Climate, and the New Energy Economy and the Second Conference on Fire Weather, Technology and Risk)</a> — Session Chair: Chenghao Wang, Wednesday 13:45-15:00, Room 361A.</li>          
         </ul>
     </div>
   </div>
