@@ -100,7 +100,7 @@ To bridge this gap, we developed an integrative modeling framework that couples 
   <div class="fig-cap">LES–LSM simulations of urban dispersion with street trees</div>
 </div>
 
-We also use **LES** to quantify emissions from urban infrastructure. Our recent application focused on methane plumes from wastewater treatment plant digesters, which demonstrates a step change in spatial resolution and accuracy compared with high-resolution WRF simulations. These results highlight the importance of high-resolution physics-based modeling in both understanding emissions and supporting urban air quality management.
+We also use **LES** to quantify emissions from urban infrastructure. Our recent application focused on methane plumes from wastewater treatment plant digesters, which demonstrates a step change in spatial resolution and accuracy compared with high-resolution WRF simulations ([Zhou et al., 2026](https://doi.org/10.1109/MIOT.2025.3638271)). These results highlight the importance of high-resolution physics-based modeling in both understanding emissions and supporting urban air quality management.
 
 <div class="fig" style="--fig-width: 70%;">
   <img src="/images/research figs/CH4 LES illustration.png" alt="LES-based modeling of methane plumes from wastewater treatment plants">

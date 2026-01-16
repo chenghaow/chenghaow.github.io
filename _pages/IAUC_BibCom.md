@@ -338,6 +338,7 @@ The full searchable bibliography database, which contains more than 13,000 recor
 
 
 ## IAUC Quarterly Newsletter (since Dec 2020)
+- Urban Climate News [Issue No. 94](https://urban-climate.org/wp-content/uploads/2026/01/IAUC094-r1.pdf), Jan 2026 (Bib.: pp. 29–81)
 - Urban Climate News [Issue No. 93](https://urban-climate.org/wp-content/uploads/2025/05/IAUC093-corrected.pdf), May 2025 (Bib.: pp. 27–69)
 - Urban Climate News [Issue No. 92](https://urban-climate.org/wp-content/uploads/2025/01/IAUC092.pdf), Jan 2025 (Bib.: pp. 25–95)
 - Urban Climate News [Issue No. 91](https://urban-climate.org/wp-content/uploads/2024/08/IAUC091.pdf), Aug 2024 (Bib.: pp. 18–53)
