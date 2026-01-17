@@ -35,22 +35,27 @@ author_profile: true
 
   <div class="teach__item">
     <div class="teach__term">2027 Spring</div>
-    <div class="teach__course">METR 5543: Global Climate Change <strong>(redesigned course)</strong> (upcoming) </div>
+    <div class="teach__course">METR 5543: Global Climate Change <strong>(redesigned course)</strong> (upcoming)</div>
   </div>
 
   <div class="teach__item">
     <div class="teach__term">2026 Fall</div>
-    <div class="teach__course">GEOG 3023-001: Principles of Physical Geography</div>
+    <div class="teach__course">GEOG 3023-001: Principles of Physical Geography (upcoming)</div>
   </div>
 
   <div class="teach__item">
     <div class="teach__term">2026 Fall</div>
-    <div class="teach__course">GEOG/METR 4043/5043-001: Urban Climatology</div>
+    <div class="teach__course">GEOG/METR 4043/5043-001: Urban Climatology (upcoming)</div>
   </div>
 
   <div class="teach__item">
     <div class="teach__term">2026 Spring</div>
     <div class="teach__course">METR 1003-001: Introduction to the Atmospheric Sciences</div>
+  </div>
+
+  <div class="teach__item">
+    <div class="teach__term">2026 Spring</div>
+    <div class="teach__course">METR 5990-062: Independent Study</div>
   </div>
 
   <div class="teach__item">
