@@ -12,7 +12,27 @@ author_profile: true
 <hr class="news-sep">
 
   <div class="news-item">
-    <div class="news-date">2025-12-21</div>
+    <div class="news-date">2026-01-31</div>
+    <div class="news-body">
+      <strong>[Conference Presentations]</strong> The SURF Lab will be attending the European Geosciences Union (EGU) General Assembly 2026 in Vienna, Austria (May 3–8, 2026). More details on our presentations and sessions will be shared soon.
+    </div>
+  </div>
+
+<!-- conference activities (live) above this line -->
+
+<div class="news-year">2026</div>
+<hr class="news-sep">
+<!-- 2026 -->
+
+  <div class="news-item">
+    <div class="news-date">2026-01-25</div>
+    <div class="news-body">
+      <strong>[Accomplishment]</strong> Dr. Wang received the American Meteorological Society (AMS) STAC Outstanding Early Career Award for "<em>high-impact contributions to urban climate modeling and leadership in advancing science, applications, and community engagement</em>".
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">2026-01-10</div>
     <div class="news-body">
       <strong>[Conference Presentations]</strong> The SURF Lab will be attending the 106th American Meteorological Society (AMS) Annual Meeting in Houston, TX (Jan 25–29, 2026). You can meet us at the following sessions and presentations:
         <ul>
@@ -26,12 +46,6 @@ author_profile: true
         </ul>
     </div>
   </div>
-
-<!-- conference activities (live) above this line -->
-
-<div class="news-year">2026</div>
-<hr class="news-sep">
-<!-- 2026 -->
 
   <div class="news-item">
     <div class="news-date">2026-01-05</div>
