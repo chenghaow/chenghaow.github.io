@@ -99,7 +99,8 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
   <a href="https://insideclimatenews.org/news/10122025/gas-stoves-nitrogen-dioxide-exposure/" target="_blank">Inside Climate News</a>,
   <a href="https://www.womenshealthmag.com/health/a69674395/gas-stove-indoor-air-pollution-asthma/" target="_blank">Women's Health</a>,
   <a href="https://nypost.com/2025/12/11/health/common-appliance-increasing-risk-of-lung-cancer-and-diabetes/" target="_blank">New York Post</a>,
-  <a href="https://www.smithsonianmag.com/smart-news/gas-stoves-are-poisoning-americans-by-releasing-toxic-fumes-associated-with-asthma-and-lung-cancer-180987836/" target="_blank">Smithsonian Magazine</a>.]</div>
+  <a href="https://www.smithsonianmag.com/smart-news/gas-stoves-are-poisoning-americans-by-releasing-toxic-fumes-associated-with-asthma-and-lung-cancer-180987836/" target="_blank">Smithsonian Magazine</a>,
+  <a href="https://www.washingtonpost.com/climate-environment/interactive/2026/gas-stoves-no2-lookup/" target="_blank">The Washington Post</a>.]</div>
 </div>
 
 <div class="pub">
