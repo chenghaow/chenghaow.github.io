@@ -85,7 +85,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">78.</span>
-    Kashtan, Y., <span class="me">Wang, C.</span>, Nadeau, K., C., &amp; Jackson, R. B.* (2025).
+    Kashtan, Y., <span class="me">Wang, C.</span>, Nadeau, K. C., &amp; Jackson, R. B.* (2025).
     Integrating indoor and outdoor nitrogen dioxide exposures in U.S. homes nationally by ZIP code.
     <span class="pub-title">PNAS Nexus</span>, 4(12), pgaf341.
     <span class="pub-links"><a href="https://doi.org/10.1093/pnasnexus/pgaf341" target="_blank">Full Text</a>.</span>
