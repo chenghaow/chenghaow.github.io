@@ -25,6 +25,15 @@ author_profile: true
 <!-- 2026 -->
 
   <div class="news-item">
+    <div class="news-date">2026-02-24</div>
+    <div class="news-body">
+      <strong>[New Publication]</strong> Our new paper on integrated watershed nutrient modeling, "<a href="https://doi.org/10.1016/j.resconrec.2026.108869" target="_blank">Systematic tracking of nitrogen and phosphorus dynamics in complex watersheds: 
+      A novel source-transfer-sink analytical framework applied to Erhai Lake</a>", 
+      is published in <em>Resources, Conservation and Recycling</em> (IF: 10.9).
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2026-01-25</div>
     <div class="news-body">
       <strong>[Accomplishment]</strong> Dr. Wang received the American Meteorological Society (AMS) STAC Outstanding Early Career Award for "<em>high-impact contributions to urban climate modeling and leadership in advancing science, applications, and community engagement</em>".
