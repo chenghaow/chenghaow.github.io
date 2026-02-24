@@ -27,9 +27,10 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">P1.</span>
-    <span class="mentee">Huang, Y.</span>§, <span class="me">Wang, C.</span>*, Danzig, T., Lee, T. R., &amp; Pal, S. (2025).
-    Urban heat forecasts in small cities: Evaluation of a high-resolution operational numerical weather prediction model.
-    <span class="pub-title">EGUsphere</span>.
+    5.	Jackson, R. B.*, Irvin, J. A., Ramachandran, N., <span class="me">Wang, C.</span>, 
+    Ouyang, Z., Tulloch, P., Liu, F., & Ng, A. Y. (2026).
+    MEthane Tracking Emissions Reference (METER): A global database of methane-emitting infrastructure.
+    <span class="pub-title">Earth System Science Data Discussions</span>.
     <span class="pub-links"><a href="https://doi.org/10.5194/egusphere-2025-3397" target="_blank">Full Text</a>.</span>
   </div>
 </div>
@@ -41,10 +42,22 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <div class="pub">
   <div class="pub-line">
+    <span class="pub-num">83.</span>
+    Yu, Z.*, Shao, M., Yang, W., Zhang, Y., Hu, Y., Ma, W., Zhong, J., Lin, Y., Wang, M., Zhang, H., Chen, J., 
+    <span class="me">Wang, C.</span>, Rahman, M. A., Weng, Q., & Zhou, W. (2026). 
+    Quantifying evapotranspiration and shading cooling of urban vegetation across climates 
+    under extreme heat using an integrated SCOPE-SEB model and surface temperature analysis.
+    <span class="pub-title">Remote Sensing of Environment</span>, in press.
+    <!-- <span class="pub-links"><a href="https://doi.org/" target="_blank">Full Text</a>.</span> -->
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-line">
     <span class="pub-num">82.</span>
     Cheng, X.†, Li, Y.†, Dong, Y.*, Ma, Y., Shi, X., Ni, Z., <span class="me">Wang, C.</span>, 
     Critto, A., & Wang, S.* (2026). Systematic tracking of nitrogen and phosphorus dynamics in complex watersheds: 
-    A novel source-transfer-sink analytical framework applied to Erhai Lake
+    A novel source-transfer-sink analytical framework applied to Erhai Lake.
     <span class="pub-title">Resources, Conservation & Recycling</span>, in press.
     <!-- <span class="pub-links"><a href="https://doi.org/" target="_blank">Full Text</a>.</span> -->
   </div>
