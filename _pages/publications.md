@@ -69,7 +69,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     Cheng, X.†, Li, Y.†, Dong, Y.*, Ma, Y., Shi, X., Ni, Z., <span class="me">Wang, C.</span>, 
     Critto, A., & Wang, S.* (2026). Systematic tracking of nitrogen and phosphorus dynamics in complex watersheds: 
     A novel source-transfer-sink analytical framework applied to Erhai Lake.
-    <span class="pub-title">Resources, Conservation & Recycling</span>, 229， 108869.
+    <span class="pub-title">Resources, Conservation & Recycling</span>, 229, 108869.
     <span class="pub-links"><a href="https://doi.org/10.1016/j.resconrec.2026.108869" target="_blank">Full Text</a>.</span>
   </div>
 </div>
