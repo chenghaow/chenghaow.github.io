@@ -21,20 +21,20 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <!-- Preprint -->
 
-<!--
+
 <h2 id="preprint" class="pub-sec">Preprint</h2>
 
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">P1.</span>
-    5.	Jackson, R. B.*, Irvin, J. A., Ramachandran, N., <span class="me">Wang, C.</span>, 
+    Jackson, R. B.*, Irvin, J. A., Ramachandran, N., <span class="me">Wang, C.</span>, 
     Ouyang, Z., Tulloch, P., Liu, F., & Ng, A. Y. (2026).
     MEthane Tracking Emissions Reference (METER): A global database of methane-emitting infrastructure.
-    <span class="pub-title">Earth System Science Data Discussions</span>.
-    <span class="pub-links"><a href="https://doi.org/10.5194/egusphere-2025-3397" target="_blank">Full Text</a>.</span>
+    <span class="pub-title">Earth System Science Data Discussions</span>, preprint.
+    <span class="pub-links"><a href="https://doi.org/10.5194/essd-2026-124" target="_blank">Full Text</a>.</span>
   </div>
 </div>
--->
+
 
 <!-- 2026 -->
 
