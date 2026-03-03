@@ -44,7 +44,7 @@ author_profile: true
   <div class="news-item">
     <div class="news-date">2026-02-19</div>
     <div class="news-body">
-      <strong>[Accomplishment]</strong> Yu Ding received the student oral presentation award for her presentation at the 24th Joint Conference on the Applications of Air Pollution Meteorology with the A&WMA (AMS 2026 Annual Meeting) in Houston, Tx. Congratulations, Yu!
+      <strong>[Accomplishment]</strong> Yu Ding received the student oral presentation award for her presentation at the 24th Joint Conference on the Applications of Air Pollution Meteorology with the A&WMA (AMS 2026 Annual Meeting) in Houston, TX. Congratulations, Yu!
     </div>
   </div>
 
