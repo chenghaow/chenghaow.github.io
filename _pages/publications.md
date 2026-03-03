@@ -57,9 +57,9 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     <span class="pub-num">82.</span>
     Feron, S., Cordero, R. R.*, Damiani, A., Upham, P., Bintanja, R., Sun, X., Pizarro, J., 
     <span class="me">Wang, C.</span>, Ouyang, Z., Sun, X., Beaulieu, A., & Jackson, R. B. (2026).
-    Photovoltaic power response to El Niño–southern oscillation.
+    Photovoltaic power response to El Niño–Southern Oscillation.
     <span class="pub-title">Communications Earth & Environment</span>, in press.
-    <!-- <span class="pub-links"><a href="https://doi.org/" target="_blank">Full Text</a>.</span> -->
+    <span class="pub-links"><a href="hhttps://doi.org/10.1038/s43247-026-03343-z" target="_blank">Full Text</a>.</span>
   </div>
 </div>
 

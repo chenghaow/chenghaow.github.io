@@ -25,11 +25,26 @@ author_profile: true
 <!-- 2026 -->
 
   <div class="news-item">
+    <div class="news-date">2026-03-02</div>
+    <div class="news-body">
+      <strong>[New Publication]</strong> Our new paper on solar energy resposne to climate variability, "<a href="https://doi.org/10.1038/s43247-026-03343-z" target="_blank">Photovoltaic power response to El Niño–Southern Oscillation</a>", 
+      is published in <em>Communications Earth & Environment</em> (IF: 8.9).
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2026-02-24</div>
     <div class="news-body">
       <strong>[New Publication]</strong> Our new paper on integrated watershed nutrient modeling, "<a href="https://doi.org/10.1016/j.resconrec.2026.108869" target="_blank">Systematic tracking of nitrogen and phosphorus dynamics in complex watersheds: 
       A novel source-transfer-sink analytical framework applied to Erhai Lake</a>", 
       is published in <em>Resources, Conservation and Recycling</em> (IF: 10.9).
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">2026-02-19</div>
+    <div class="news-body">
+      <strong>[Accomplishment]</strong> Yu Ding received the student oral presentation award for her presentation at the 24th Joint Conference on the Applications of Air Pollution Meteorology with the A&WMA (AMS 2026 Annual Meeting) in Houston, Tx. Congratulations, Yu!
     </div>
   </div>
 
