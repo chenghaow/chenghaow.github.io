@@ -28,7 +28,7 @@ author_profile: true
     <div class="news-date">2026-03-05</div>
     <div class="news-body">
       <strong>[New Publication]</strong> Our new paper on cross-climate urban vegetation modeling, "<a href="https://doi.org/10.1016/j.rse.2026.115343" target="_blank">Quantifying evapotranspiration and shading cooling of urban vegetation across climates under extreme heat using an integrated SCOPE-SEB model and surface temperature analysis</a>", 
-      is published in <em>Communications Earth & Environment</em> (IF: 8.9).
+      is published in <em>Remote Sensing of Environment</em> (IF: 11.4).
     </div>
   </div>
 
