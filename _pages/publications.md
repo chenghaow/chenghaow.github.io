@@ -44,11 +44,11 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
   <div class="pub-line">
     <span class="pub-num">83.</span>
     Yu, Z.*, Shao, M., Yang, W., Zhang, Y., Hu, Y., Ma, W., Zhong, J., Lin, Y., Wang, M., Zhang, H., Chen, J., 
-    <span class="me">Wang, C.</span>, Rahman, M. A., Weng, Q., & Zhou, W. (2026). 
+    <span class="me">Wang, C.</span>, Rahman, M. A., Weng, Q., & Zhou, W.* (2026). 
     Quantifying evapotranspiration and shading cooling of urban vegetation across climates 
     under extreme heat using an integrated SCOPE-SEB model and surface temperature analysis.
-    <span class="pub-title">Remote Sensing of Environment</span>, in press.
-    <!-- <span class="pub-links"><a href="https://doi.org/" target="_blank">Full Text</a>.</span> -->
+    <span class="pub-title">Remote Sensing of Environment</span>, 338, 115343.
+    <span class="pub-links"><a href="https://doi.org/10.1016/j.rse.2026.115343" target="_blank">Full Text</a>.</span>
   </div>
 </div>
 
