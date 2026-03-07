@@ -26,6 +26,17 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <div class="pub">
   <div class="pub-line">
+    <span class="pub-num">P2.</span>
+    Spicer, E.*, Klein, P., Hill, A., & <span class="me">Wang, C.</span> (2026). 
+    A novel approach to heat risk analysis using machine learning and the Unrestricted Mesoscale Analysis dataset: 
+    Nocturnal trends in Houston, TX during the 2022 TRACER IOP.
+    <span class="pub-title">SSRN</span>, preprint.
+    <span class="pub-links"><a href="https://doi.org/10.2139/ssrn.6281005" target="_blank">Full Text</a>.</span>
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-line">
     <span class="pub-num">P1.</span>
     Jackson, R. B.*, Irvin, J. A., Ramachandran, N., <span class="me">Wang, C.</span>, 
     Ouyang, Z., Tulloch, P., Liu, F., & Ng, A. Y. (2026).
