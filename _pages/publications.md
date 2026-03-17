@@ -53,9 +53,21 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <div class="pub">
   <div class="pub-line">
+    <span class="pub-num">84.</span>
+    Jongen, H. J., Lipson, M., Teuling, A. J., Grimmond, S., Best, M., Baik, J.-J.‡, Demuzere, M.‡, Fortuniak, K.‡, 
+    <span class="mentee">Huang, Y.</span>‡,§, De Kauwe, M.‡, Meili, N.‡, Park, S.-B.‡, 
+    <span class="me">Wang, C.</span>‡, Wang, Z.-H.‡, &amp; Steeneveld, G.-J.* (2026). 
+    Surface runoff discrepancy in Urban-PLUMBER land surface models.
+    <span class="pub-title">Geophysical Research Letters</span>, accepted and in press.
+    <!-- <span class="pub-links"><a href="https://doi.org/10.1016/j.rse.2026.115343" target="_blank">Full Text</a>.</span> -->
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-line">
     <span class="pub-num">83.</span>
     Yu, Z.*, Shao, M., Yang, W., Zhang, Y., Hu, Y., Ma, W., Zhong, J., Lin, Y., Wang, M., Zhang, H., Chen, J., 
-    <span class="me">Wang, C.</span>, Rahman, M. A., Weng, Q., & Zhou, W.* (2026). 
+    <span class="me">Wang, C.</span>, Rahman, M. A., Weng, Q., &amp; Zhou, W.* (2026). 
     Quantifying evapotranspiration and shading cooling of urban vegetation across climates 
     under extreme heat using an integrated SCOPE-SEB model and surface temperature analysis.
     <span class="pub-title">Remote Sensing of Environment</span>, 338, 115343.
@@ -67,9 +79,9 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
   <div class="pub-line">
     <span class="pub-num">82.</span>
     Feron, S., Cordero, R. R.*, Damiani, A., Upham, P., Bintanja, R., Sun, X., Pizarro, J., 
-    <span class="me">Wang, C.</span>, Ouyang, Z., Sun, X., Beaulieu, A., & Jackson, R. B. (2026).
+    <span class="me">Wang, C.</span>, Ouyang, Z., Sun, X., Beaulieu, A., &amp; Jackson, R. B. (2026).
     Photovoltaic power response to El Niño–Southern Oscillation.
-    <span class="pub-title">Communications Earth & Environment</span>, online.
+    <span class="pub-title">Communications Earth &amp; Environment</span>, online.
     <span class="pub-links"><a href="hhttps://doi.org/10.1038/s43247-026-03343-z" target="_blank">Full Text</a>.</span>
   </div>
 </div>
@@ -78,9 +90,9 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
   <div class="pub-line">
     <span class="pub-num">81.</span>
     Cheng, X.†, Li, Y.†, Dong, Y.*, Ma, Y., Shi, X., Ni, Z., <span class="me">Wang, C.</span>, 
-    Critto, A., & Wang, S.* (2026). Systematic tracking of nitrogen and phosphorus dynamics in complex watersheds: 
+    Critto, A., &amp; Wang, S.* (2026). Systematic tracking of nitrogen and phosphorus dynamics in complex watersheds: 
     A novel source-transfer-sink analytical framework applied to Erhai Lake.
-    <span class="pub-title">Resources, Conservation & Recycling</span>, 229, 108869.
+    <span class="pub-title">Resources, Conservation &amp; Recycling</span>, 229, 108869.
     <span class="pub-links"><a href="https://doi.org/10.1016/j.resconrec.2026.108869" target="_blank">Full Text</a>.</span>
   </div>
 </div>
@@ -113,7 +125,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     Chandra, N.‡, Ciais, P.‡, Davis, S. J.‡, Feron, S.‡, Guo, F.‡, Hauglustaine, D.‡, Jones, C. D.‡, 
     Jones, M. W.‡, Kato, E.‡, Kennedy, D.‡, Knauer, J.‡, Lienert, S.‡, Lombardozzi, D.‡, Melton, J. R.‡, 
     Nable, J. E. M. S.‡, O'Sullivan, M.‡, Pétron, G.‡, Poulter, B.‡, Rogelj, J.‡, Sandoval Calle, D.‡, 
-    Smith, P.‡, Suntharalingam, P.‡, Tian, H.‡, <span class="me">Wang, C.</span>‡, & Wiltshire, A.‡ 
+    Smith, P.‡, Suntharalingam, P.‡, Tian, H.‡, <span class="me">Wang, C.</span>‡, &amp; Wiltshire, A.‡ 
     (2025). The global hydrogen budget.
     <span class="pub-title">Nature</span>, 648, 616–624.
     <span class="pub-links"><a href="https://doi.org/10.1038/s41586-025-09806-1" target="_blank">Full Text</a>.</span>
