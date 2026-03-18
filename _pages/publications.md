@@ -51,13 +51,19 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <h2 id="y2026" class="pub-year">2026</h2>
 
+<!-- 
+<div class="pub">
+    (Journal articles: 6)
+</div>
+-->
+
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">85.</span>
     Yang, X., Wang, Z.-H., &amp; <span class="me">Wang, C.</span>* (2026). 
     Directed causal coupling between urban heat and air pollution in U.S. cities.
     <span class="pub-title">Environmental Research Letters</span>, in press.
-    <!-- <span class="pub-links"><a href="https://doi.org/10.1016/j.rse.2026.115343" target="_blank">Full Text</a>.</span> -->
+    <span class="pub-links"><a href="https://doi.org/10.1088/1748-9326/ae53fd" target="_blank">Full Text</a>.</span>
   </div>
 </div>
 
