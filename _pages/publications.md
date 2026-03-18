@@ -56,7 +56,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     <span class="pub-num">85.</span>
     Yang, X., Wang, Z.-H., &amp; <span class="me">Wang, C.</span>* (2026). 
     Directed causal coupling between urban heat and air pollution in U.S. cities.
-    <span class="pub-title">Environmental Research Letters</span>, accepted and in press.
+    <span class="pub-title">Environmental Research Letters</span>, in press.
     <!-- <span class="pub-links"><a href="https://doi.org/10.1016/j.rse.2026.115343" target="_blank">Full Text</a>.</span> -->
   </div>
 </div>
@@ -68,7 +68,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     <span class="mentee">Huang, Y.</span>‡,§, De Kauwe, M.‡, Meili, N.‡, Park, S.-B.‡, 
     <span class="me">Wang, C.</span>‡, Wang, Z.-H.‡, &amp; Steeneveld, G.-J.* (2026). 
     Surface runoff discrepancy in Urban-PLUMBER land surface models.
-    <span class="pub-title">Geophysical Research Letters</span>, accepted and in press.
+    <span class="pub-title">Geophysical Research Letters</span>, in press.
     <!-- <span class="pub-links"><a href="https://doi.org/10.1016/j.rse.2026.115343" target="_blank">Full Text</a>.</span> -->
   </div>
 </div>
