@@ -57,25 +57,26 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 </div>
 -->
 
+
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">85.</span>
-    Yang, X., Wang, Z.-H., &amp; <span class="me">Wang, C.</span>* (2026). 
-    Directed causal coupling between urban heat and air pollution in U.S. cities.
-    <span class="pub-title">Environmental Research Letters</span>, in press.
-    <span class="pub-links"><a href="https://doi.org/10.1088/1748-9326/ae53fd" target="_blank">Full Text</a>.</span>
+    Jongen, H. J., Lipson, M., Teuling, A. J., Grimmond, S., Best, M., Baik, J.-J.‡, Demuzere, M.‡, Fortuniak, K.‡, 
+    <span class="mentee">Huang, Y.</span>‡,§, De Kauwe, M.‡, Meili, N.‡, Park, S.-B.‡, 
+    <span class="me">Wang, C.</span>‡, Wang, Z.-H.‡, &amp; Steeneveld, G.-J.* (2026). 
+    Surface runoff discrepancy in Urban-PLUMBER land surface models.
+    <span class="pub-title">Geophysical Research Letters</span>, in press.
+    <span class="pub-links"><a href="https://doi.org/10.1029/2026GL122048" target="_blank">Full Text</a>.</span>
   </div>
 </div>
 
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">84.</span>
-    Jongen, H. J., Lipson, M., Teuling, A. J., Grimmond, S., Best, M., Baik, J.-J.‡, Demuzere, M.‡, Fortuniak, K.‡, 
-    <span class="mentee">Huang, Y.</span>‡,§, De Kauwe, M.‡, Meili, N.‡, Park, S.-B.‡, 
-    <span class="me">Wang, C.</span>‡, Wang, Z.-H.‡, &amp; Steeneveld, G.-J.* (2026). 
-    Surface runoff discrepancy in Urban-PLUMBER land surface models.
-    <span class="pub-title">Geophysical Research Letters</span>, in press.
-    <!-- <span class="pub-links"><a href="https://doi.org/10.1016/j.rse.2026.115343" target="_blank">Full Text</a>.</span> -->
+    Yang, X., Wang, Z.-H., &amp; <span class="me">Wang, C.</span>* (2026). 
+    Directed causal coupling between urban heat and air pollution in U.S. cities.
+    <span class="pub-title">Environmental Research Letters</span>, in press.
+    <span class="pub-links"><a href="https://doi.org/10.1088/1748-9326/ae53fd" target="_blank">Full Text</a>.</span>
   </div>
 </div>
 
@@ -98,7 +99,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     <span class="me">Wang, C.</span>, Ouyang, Z., Sun, X., Beaulieu, A., &amp; Jackson, R. B. (2026).
     Photovoltaic power response to El Niño–Southern Oscillation.
     <span class="pub-title">Communications Earth &amp; Environment</span>, online.
-    <span class="pub-links"><a href="hhttps://doi.org/10.1038/s43247-026-03343-z" target="_blank">Full Text</a>.</span>
+    <span class="pub-links"><a href="https://doi.org/10.1038/s43247-026-03343-z" target="_blank">Full Text</a>.</span>
   </div>
 </div>
 
