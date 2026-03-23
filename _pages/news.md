@@ -25,6 +25,21 @@ author_profile: true
 <!-- 2026 -->
 
   <div class="news-item">
+    <div class="news-date">2026-03-18</div>
+    <div class="news-body">
+      <strong>[New Publication]</strong> Our new paper on heat–pollution causal inference, "<a href="https://doi.org/10.1088/1748-9326/ae53fd" target="_blank">Directed causal coupling between urban heat and air pollution in U.S. cities</a>", 
+      is published in <em>Environmental Research Letters</em> (IF: 5.6).
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">2026-03-16</div>
+    <div class="news-body">
+      <strong>[Accomplishment]</strong> Haoran Hou was selected to participate in the heat extremes hackathon (HeatHack) hosted at the NCAR Mesa Lab in Boulder, CO in summer 2026. Congratulations, Haoran!
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2026-03-05</div>
     <div class="news-body">
       <strong>[New Publication]</strong> Our new paper on cross-climate urban vegetation modeling, "<a href="https://doi.org/10.1016/j.rse.2026.115343" target="_blank">Quantifying evapotranspiration and shading cooling of urban vegetation across climates under extreme heat using an integrated SCOPE-SEB model and surface temperature analysis</a>", 
