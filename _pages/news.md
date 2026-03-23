@@ -11,10 +11,25 @@ author_profile: true
 <div class="news-year">Upcoming conference</div>
 <hr class="news-sep">
 
-  <div class="news-item">
+  <!-- <div class="news-item">
     <div class="news-date">2026-01-31</div>
     <div class="news-body">
       <strong>[Conference Presentations]</strong> The SURF Lab will be attending the European Geosciences Union (EGU) General Assembly 2026 in Vienna, Austria (May 3–8, 2026). More details on our presentations and sessions will be shared soon.
+    </div>
+  </div> -->
+
+
+  <div class="news-item">
+    <div class="news-date">2026-03-13</div>
+    <div class="news-body">
+      <strong>[Conference Presentations]</strong> The SURF Lab will be attending the European Geosciences Union (EGU) General Assembly 2026 in Vienna, Austria (May 3–8, 2026). You can meet us (virtually) at the following sessions and presentations:
+        <ul>
+          <li> <a href="https://doi.org/10.5194/egusphere-egu26-15824" target="_blank">Urban thermal environments as interconnected systems: Emergent causal networks and dynamic synchronization</a> (Oral) — Presenter: Chenghao Wang; Tuesday (May 5) 8:55-9:05 (CEST), Room D3.</li>
+          <li> <a href="https://doi.org/10.5194/egusphere-egu26-16025" target="_blank">Reliance on typical weather data misrepresents cooling and heating energy use: Insights from 23 years of building energy simulations across the U.S.</a> (Oral) — Presenter: Jessica Leffel; Tuesday (May 5) 10:05-10:15 (CEST), Room D3.</li>
+          <li> <a href="https://www.egu26.eu/session/57031#Orals" target="_blank">Oral Session: Urban Watersheds and Urban Water Challenges (Co-sponsored by IAHS)</a> — Session Co-convener: Chenghao Wang, Wednesday (May 6) 8:30–12:25 (CEST), Room 2.44.</li> 
+          <li> <a href="https://www.egu26.eu/session/57031#Posters_on_site" target="_blank">Poster on site: Urban Watersheds and Urban Water Challenges (Co-sponsored by IAHS)</a> — Session Co-convener: Chenghao Wang, Wednesday (May 6) 14:00–15:45 (CEST), Hall A.</li>
+          <li> <a href="https://www.egu26.eu/session/57031#Posters_virtual" target="_blank">Poster virtual: Urban Watersheds and Urban Water Challenges (Co-sponsored by IAHS)</a> — Session Co-convener: Chenghao Wang, Wednesday (May 8) 16:15–18:00 (CEST), vPoster spot A.</li>
+        </ul>
     </div>
   </div>
 
