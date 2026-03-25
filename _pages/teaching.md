@@ -50,7 +50,7 @@ author_profile: true
 
   <div class="teach__item">
     <div class="teach__term">2026 Spring</div>
-    <div class="teach__course">METR 1003-001: Introduction to the Atmospheric Sciences</div>
+    <div class="teach__course">METR 1003-001: Introduction to the Atmospheric Sciences (74 students)</div>
   </div>
 
   <div class="teach__item">
@@ -75,7 +75,7 @@ author_profile: true
 
   <div class="teach__item">
     <div class="teach__term">2025 Spring</div>
-    <div class="teach__course">GEOG/METR 4043/5043-001: Urban Climatology</div>
+    <div class="teach__course">GEOG/METR 4043/5043-001: Urban Climatology (22 students)</div>
   </div>
 
   <div class="teach__item">
@@ -90,12 +90,12 @@ author_profile: true
 
   <div class="teach__item">
     <div class="teach__term">2024 Spring</div>
-    <div class="teach__course">METR 1003-001: Introduction to the Atmospheric Sciences</div>
+    <div class="teach__course">METR 1003-001: Introduction to the Atmospheric Sciences (33 students)</div>
   </div>
 
   <div class="teach__item">
     <div class="teach__term">2024 Spring</div>
-    <div class="teach__course">GEOG/METR 4043/5043-001: Urban Climatology</div>
+    <div class="teach__course">GEOG/METR 4043/5043-001: Urban Climatology (11 students)</div>
   </div>
 
   <div class="teach__item">
@@ -110,7 +110,7 @@ author_profile: true
 
   <div class="teach__item">
     <div class="teach__term">2023 Fall</div>
-    <div class="teach__course">GEOG 3023-001: Principles of Physical Geography <strong>(redesigned course)</strong></div>
+    <div class="teach__course">GEOG 3023-001: Principles of Physical Geography <strong>(redesigned course)</strong> (11 students)</div>
   </div>
 
   <div class="teach__item">
@@ -120,7 +120,7 @@ author_profile: true
 
   <div class="teach__item">
     <div class="teach__term">2023 Spring</div>
-    <div class="teach__course">GEOG/METR 4970/5970-004: Urban Climatology <strong>(new course)</strong></div>
+    <div class="teach__course">GEOG/METR 4970/5970-004: Urban Climatology <strong>(new course)</strong> (12 students)</div>
   </div> 
 
 </div>
