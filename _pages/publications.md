@@ -27,8 +27,9 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">P3.</span>
-    <span class="me">Wang, C.</span>*, Sun, T.*, Crank, P. J.‡, Ding, Y.‡, Doran, E. M. B.‡, Hou, H.‡, Huang, Y.‡, 
-    Leffel, J.‡, Adebayo, F.‡, Amirtham, L. R.‡, Anand, P.‡, Banerjee, D.‡, Cao, J.‡, Cao, Q.‡, Chakraborty, T.‡, 
+    <span class="me">Wang, C.</span>*, Sun, T.*, Crank, P. J.‡, <span class="mentee">Ding, Y.</span>‡,§, Doran, E. M. B.‡, 
+    <span class="mentee">Hou, H.</span>‡,§, <span class="mentee">Huang, Y.</span>‡,§, <span class="mentee">Leffel, J.</span>‡,§, 
+    Adebayo, F.‡, Amirtham, L. R.‡, Anand, P.‡, Banerjee, D.‡, Cao, J.‡, Cao, Q.‡, Chakraborty, T.‡, 
     Deng, X.‡, Eldesoky, A. H.‡, Govindan, P.‡, Hamdi, R.‡, Lipson, M. J.‡, Mehrotra, S.‡, Mills, G.‡, Saed, M.‡, 
     Siddiqui, A.‡, Wang, Y.‡, Ajebbar, N.‡, Banerjee, S.‡, Demuzere, M.‡, Goddu, P. S. G.‡, Halder, S.‡, Jiang, T.‡, 
     Keerthikumar, A.‡, Kannemadugu, H. B. S.‡, Khan, A.‡, Lu, J.‡, Mahakalkar, A.‡, Mali, P.‡, Mishra, K.‡, Mistry, R.‡, 
