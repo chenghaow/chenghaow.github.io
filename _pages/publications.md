@@ -34,7 +34,6 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     Keerthikumar, A.‡, Kannemadugu, H. B. S.‡, Khan, A.‡, Lu, J.‡, Mahakalkar, A.‡, Mali, P.‡, Mishra, K.‡, Mistry, R.‡, 
     Mondal, N.‡, Mukherjee, R.‡, Naserikia, M.‡, Nazarian, N.‡, Ojha, S. K.‡, Pande, H.‡, Rai, A.‡, Sahoo, A.‡, 
     Tiwari, P. S.‡, Siddiqui, A.‡, Wu, C.‡, Wu, S.‡, & Zhao, L.‡ (2026). 
-    A novel approach to heat risk analysis using machine learning and the Unrestricted Mesoscale Analysis dataset: 
     Urban climate science is expanding faster than its transferability.
     <span class="pub-title">ESS Open Archive</span>, preprint.
     <!-- <span class="pub-links"><a href="https://doi.org/10.2139/ssrn.6281005" target="_blank">Full Text</a>.</span> -->
