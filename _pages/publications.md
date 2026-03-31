@@ -26,6 +26,23 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <div class="pub">
   <div class="pub-line">
+    <span class="pub-num">P3.</span>
+    <span class="me">Wang, C.</span>*, Sun, T.*, Crank, P. J.‡, Ding, Y.‡, Doran, E. M. B.‡, Hou, H.‡, Huang, Y.‡, 
+    Leffel, J.‡, Adebayo, F.‡, Amirtham, L. R.‡, Anand, P.‡, Banerjee, D.‡, Cao, J.‡, Cao, Q.‡, Chakraborty, T.‡, 
+    Deng, X.‡, Eldesoky, A. H.‡, Govindan, P.‡, Hamdi, R.‡, Lipson, M. J.‡, Mehrotra, S.‡, Mills, G.‡, Saed, M.‡, 
+    Siddiqui, A.‡, Wang, Y.‡, Ajebbar, N.‡, Banerjee, S.‡, Demuzere, M.‡, Goddu, P. S. G.‡, Halder, S.‡, Jiang, T.‡, 
+    Keerthikumar, A.‡, Kannemadugu, H. B. S.‡, Khan, A.‡, Lu, J.‡, Mahakalkar, A.‡, Mali, P.‡, Mishra, K.‡, Mistry, R.‡, 
+    Mondal, N.‡, Mukherjee, R.‡, Naserikia, M.‡, Nazarian, N.‡, Ojha, S. K.‡, Pande, H.‡, Rai, A.‡, Sahoo, A.‡, 
+    Tiwari, P. S.‡, Siddiqui, A.‡, Wu, C.‡, Wu, S.‡, & Zhao, L.‡ (2026). 
+    A novel approach to heat risk analysis using machine learning and the Unrestricted Mesoscale Analysis dataset: 
+    Urban climate science is expanding faster than its transferability.
+    <span class="pub-title">ESS Open Archive</span>, preprint.
+    <!-- <span class="pub-links"><a href="https://doi.org/10.2139/ssrn.6281005" target="_blank">Full Text</a>.</span> -->
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-line">
     <span class="pub-num">P2.</span>
     Spicer, E.*, Klein, P., Hill, A., & <span class="me">Wang, C.</span> (2026). 
     A novel approach to heat risk analysis using machine learning and the Unrestricted Mesoscale Analysis dataset: 
