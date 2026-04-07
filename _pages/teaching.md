@@ -150,7 +150,7 @@ author_profile: true
 
   <div class="teach__item">
     <div class="teach__term">2026 Apr</div>
-    <div class="teach__course">LAND ARC 375: Design with Microclimate (University of Wisconsin–Madison) (upcoming) </div>
+    <div class="teach__course">LAND ARC 375: Design with Microclimate (University of Wisconsin–Madison)</div>
   </div>
 
   <div class="teach__item">
