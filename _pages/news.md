@@ -40,6 +40,20 @@ author_profile: true
 <!-- 2026 -->
 
   <div class="news-item">
+    <div class="news-date">2026-04-06</div>
+    <div class="news-body">
+      <strong>[Accomplishment]</strong> Jessica Leffel received the School of Meteorology Yoshi Sasaki Award for Best M.S. Publication. Congratulations, Jessica!
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">2026-04-06</div>
+    <div class="news-body">
+      <strong>[Accomplishment]</strong> Liam Thompson received the School of Meteorology Mark & Kandi McCasland Award for Outstanding Undergraduate Research Paper. Congratulations, Liam!
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2026-03-18</div>
     <div class="news-body">
       <strong>[New Publication]</strong> Our new paper on heat–pollution causal inference, "<a href="https://doi.org/10.1088/1748-9326/ae53fd" target="_blank">Directed causal coupling between urban heat and air pollution in U.S. cities</a>", 
