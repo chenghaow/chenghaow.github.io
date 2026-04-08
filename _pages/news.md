@@ -42,6 +42,13 @@ author_profile: true
   <div class="news-item">
     <div class="news-date">2026-04-06</div>
     <div class="news-body">
+      <strong>[Accomplishment]</strong> Yuqi Huang received the School of Meteorology Douglas Lilly Award for Best Ph.D. Publication. Congratulations, Yuqi!
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">2026-04-06</div>
+    <div class="news-body">
       <strong>[Accomplishment]</strong> Jessica Leffel received the School of Meteorology Yoshi Sasaki Award for Best M.S. Publication. Congratulations, Jessica!
     </div>
   </div>
