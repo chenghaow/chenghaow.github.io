@@ -37,7 +37,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     Tiwari, P. S.‡, Siddiqui, A.‡, Wu, C.‡, Wu, S.‡, & Zhao, L.‡ (2026). 
     Rapid growth in urban climate science masks structural transferability gaps.
     <span class="pub-title">ESS Open Archive</span>, preprint.
-    <span class="pub-links"><a href="https://doi.org/10.22541/essoar.15001843/v1" target="_blank">Full Text</a>.
+    <span class="pub-links"><a href="https://doi.org/10.22541/essoar.15001843/v1" target="_blank">Full Text</a>.</span>
   </div>
 </div>
 
