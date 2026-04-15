@@ -40,6 +40,14 @@ author_profile: true
 <!-- 2026 -->
 
   <div class="news-item">
+    <div class="news-date">2026-04-14</div>
+    <div class="news-body">
+      <strong>[New Publication]</strong> Our new paper on modeled urban surface runoff intercomparison, "<a href="https://doi.org/10.1029/2026GL122048" target="_blank">Surface runoff discrepancy in Urban-PLUMBER land surface models</a>", 
+      is published in <em>Geophysical Research Letters</em> (IF: 4.6).
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2026-04-06</div>
     <div class="news-body">
       <strong>[Accomplishment]</strong> Yuqi Huang received the School of Meteorology Douglas Lilly Award for Best Ph.D. Publication. Congratulations, Yuqi!
