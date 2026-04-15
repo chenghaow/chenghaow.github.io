@@ -82,7 +82,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     <span class="mentee">Huang, Y.</span>‡,§, De Kauwe, M.‡, Meili, N.‡, Park, S.-B.‡, 
     <span class="me">Wang, C.</span>‡, Wang, Z.-H.‡, &amp; Steeneveld, G.-J.* (2026). 
     Surface runoff discrepancy in Urban-PLUMBER land surface models.
-    <span class="pub-title">Geophysical Research Letters</span>, in press.
+    <span class="pub-title">Geophysical Research Letters</span>, 53(8), e2026GL122048.
     <span class="pub-links"><a href="https://doi.org/10.1029/2026GL122048" target="_blank">Full Text</a>.</span>
   </div>
 </div>
