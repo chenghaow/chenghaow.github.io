@@ -268,7 +268,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">72.</span>
-    <span class="mentee">Leffel, J.</span>§, <span class="me">Wang, C.</span>*, Hu, X.-M., Feron, S., &amp; <span class="mentee">Henry, S.</span><sup>§</sup> (2025).
+    <span class="mentee">Leffel, J.</span>§, <span class="me">Wang, C.</span>*, Hu, X.-M., Feron, S., &amp; <span class="mentee">Henry, S.</span>§ (2025).
     Cities as hotspots of compound heat and fine particulate matter pollution: A 23-year urban–rural comparison across the United States.
     <span class="pub-title">Environmental Research</span>, 285, 122508.
     <span class="pub-links"><a href="https://doi.org/10.1016/j.envres.2025.122508" target="_blank">Full Text</a>.</span>
