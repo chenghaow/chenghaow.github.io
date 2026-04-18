@@ -27,8 +27,11 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">P3.</span>
-    <span class="me">Wang, C.</span>*, Sun, T.*, Crank, P. J.‡, <span class="mentee">Ding, Y.</span>‡,§, Doran, E. M. B.‡, 
-    <span class="mentee">Hou, H.</span>‡,§, <span class="mentee">Huang, Y.</span>‡,§, <span class="mentee">Leffel, J.</span>‡,§, 
+    <span class="me">Wang, C.</span>*, Sun, T.*, Crank, P. J.‡, 
+    <span class="mentee">Ding, Y.</span>‡<sup>,§</sup>, Doran, E. M. B.‡, 
+    <span class="mentee">Hou, H.</span>‡<sup>,§</sup>, 
+    <span class="mentee">Huang, Y.</span>‡<sup>,§</sup>, 
+    <span class="mentee">Leffel, J.</span>‡<sup>,§</sup>, 
     Adebayo, F.‡, Amirtham, L. R.‡, Anand, P.‡, Banerjee, D.‡, Cao, J.‡, Cao, Q.‡, Chakraborty, T.‡, 
     Deng, X.‡, Eldesoky, A. H.‡, Govindan, P.‡, Hamdi, R.‡, Lipson, M. J.‡, Mehrotra, S.‡, Mills, G.‡, Saed, M.‡, 
     Siddiqui, A.‡, Wang, Y.‡, Ajebbar, N.‡, Banerjee, S.‡, Demuzere, M.‡, Goddu, P. S. G.‡, Halder, S.‡, Jiang, T.‡, 
@@ -77,7 +80,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">86.</span>
-    <span class="mentee">Huang, Y.</span>§, <span class="me">Wang, C.</span>*, &amp; Wang, Z.-H. (2026). 
+    <span class="mentee">Huang, Y.</span><sup>§</sup>, <span class="me">Wang, C.</span>*, &amp; Wang, Z.-H. (2026). 
     Enhanced representation of hydrological processes in urban climate modeling: A multi-city global assessment.
     <span class="pub-title">Urban Climate</span>, in press.
     <!-- <span class="pub-links"><a href="https://doi.org/10.1029/2026GL122048" target="_blank">Full Text</a>.</span> -->
@@ -88,7 +91,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
   <div class="pub-line">
     <span class="pub-num">85.</span>
     Jongen, H. J., Lipson, M., Teuling, A. J., Grimmond, S., Best, M., Baik, J.-J.‡, Demuzere, M.‡, Fortuniak, K.‡, 
-    <span class="mentee">Huang, Y.</span>‡,§, De Kauwe, M.‡, Meili, N.‡, Park, S.-B.‡, 
+    <span class="mentee">Huang, Y.</span>‡<sup>,§</sup>, De Kauwe, M.‡, Meili, N.‡, Park, S.-B.‡, 
     <span class="me">Wang, C.</span>‡, Wang, Z.-H.‡, &amp; Steeneveld, G.-J.* (2026). 
     Surface runoff discrepancy in Urban-PLUMBER land surface models.
     <span class="pub-title">Geophysical Research Letters</span>, 53(8), e2026GL122048.
@@ -143,7 +146,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">80.</span>
-    Zhou, Z.†, Wang, X.†, Yan, Y., Mijiddorj, L., <span class="mentee">Ding, Y.</span>§, 
+    Zhou, Z.†, Wang, X.†, Yan, Y., Mijiddorj, L., <span class="mentee">Ding, Y.</span><sup>§</sup>, 
     Beringer, T., Khiabani, P. M., Jentner, W. G., Hu, X.-M., 
     <span class="me">Wang, C.</span>, Carroll, B. M., Xue, M., Ebert, D., Li, B., &amp; Weng, B.* (2026).
     AIMNET: An IoT-empowered digital twin for continuous gas emission monitoring and early hazard detection.
@@ -207,7 +210,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">77.</span>
-    <span class="mentee">Huang, Y.</span>§, <span class="me">Wang, C.</span>*, Danzig, T., Lee, T. R., &amp; Pal, S. (2025).
+    <span class="mentee">Huang, Y.</span><sup>§</sup>, <span class="me">Wang, C.</span>*, Danzig, T., Lee, T. R., &amp; Pal, S. (2025).
     Urban heat forecasting in small cities: Evaluation of a high-resolution operational numerical weather prediction model.
     <span class="pub-title">Geoscientific Model Development</span>, 18, 9237–9256.
     <span class="pub-links"><a href="https://doi.org/10.5194/gmd-18-9237-2025" target="_blank">Full Text</a>.</span>
@@ -254,7 +257,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">73.</span>
-    <span class="mentee">Huang, Y.</span>§, <span class="me">Wang, C.</span>*, &amp; Wang, Z.-H. (2025).
+    <span class="mentee">Huang, Y.</span><sup>§</sup>, <span class="me">Wang, C.</span>*, &amp; Wang, Z.-H. (2025).
     Multi-parameterization of hydrological processes in an urban canopy model.
     <span class="pub-title">Building and Environment</span>, 285, 113567.
     <span class="pub-links"><a href="https://doi.org/10.1016/j.buildenv.2025.113567" target="_blank">Full Text</a>.</span>
@@ -265,7 +268,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">72.</span>
-    <span class="mentee">Leffel, J.</span>§, <span class="me">Wang, C.</span>*, Hu, X.-M., Feron, S., &amp; <span class="mentee">Henry, S.</span>§ (2025).
+    <span class="mentee">Leffel, J.</span><sup>§</sup>, <span class="me">Wang, C.</span>*, Hu, X.-M., Feron, S., &amp; <span class="mentee">Henry, S.</span><sup>§</sup> (2025).
     Cities as hotspots of compound heat and fine particulate matter pollution: A 23-year urban–rural comparison across the United States.
     <span class="pub-title">Environmental Research</span>, 285, 122508.
     <span class="pub-links"><a href="https://doi.org/10.1016/j.envres.2025.122508" target="_blank">Full Text</a>.</span>
@@ -291,7 +294,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">70.</span>
-    <span class="me">Wang, C.</span>*, Hu, X.-M., Feron, S., <span class="mentee">Leffel, J.</span>§, &amp; Cordero, R. R. (2025).
+    <span class="me">Wang, C.</span>*, Hu, X.-M., Feron, S., <span class="mentee">Leffel, J.</span><sup>§</sup>, &amp; Cordero, R. R. (2025).
     Compound heat and ozone pollution in the urban environment.
     <span class="pub-title">Urban Climate</span>, 62, 102511.
     <span class="pub-links"><a href="https://doi.org/10.1016/j.uclim.2025.102511" target="_blank">Full Text</a>.</span>
@@ -350,7 +353,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">65.</span>
-    <span class="mentee">Thompson, L.</span>§, <span class="me">Wang, C.</span>*, He, C., Lin, T. S., Liu, C., &amp; Dudhia, J. (2025).
+    <span class="mentee">Thompson, L.</span><sup>§</sup>, <span class="me">Wang, C.</span>*, He, C., Lin, T. S., Liu, C., &amp; Dudhia, J. (2025).
     Assessment of convection-permitting hydroclimate modeling in urban areas across the contiguous United States.
     <span class="pub-title">Urban Climate</span>, 61, 102375.
     <span class="pub-links"><a href="https://doi.org/10.1016/j.uclim.2025.102375" target="_blank">Full Text</a>.</span>
@@ -417,7 +420,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">60.</span>
-    Jongen, H. J., Lipson, M., Teuling, A. J., Grimmond, S., Baik, J.-J.‡, Best, M.‡, Demuzere, M.‡, Fortuniak, K.‡, <span class="mentee">Huang, Y.</span>‡<sup>,</sup>§, De Kauwe, M. G.‡,
+    Jongen, H. J., Lipson, M., Teuling, A. J., Grimmond, S., Baik, J.-J.‡, Best, M.‡, Demuzere, M.‡, Fortuniak, K.‡, <span class="mentee">Huang, Y.</span>‡<sup>,§</sup>, De Kauwe, M. G.‡,
     Li, R.‡, McNorton, J.‡, Meili, N.‡, Oleson, K.‡, Park, S.-B.‡, Sun, T.‡, Tsiringakis, A.‡, Varentsov, M.‡, <span class="me">Wang, C.</span>‡,
     Wang, Z.-H.‡, &amp; Steeneveld, G.-J.* (2024).
     The water balance representation in Urban-PLUMBER land surface models.
@@ -1043,7 +1046,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">22.</span>
-    <span class="me">Wang, C.</span>, Wang, Z.-H.*, &amp; <span class="mentee">Sun, L.</span>§ (2020).
+    <span class="me">Wang, C.</span>, Wang, Z.-H.*, &amp; <span class="mentee">Sun, L.</span><sup>§</sup> (2020).
     Early-warning signals for critical temperature transitions.
     <span class="pub-title">Geophysical Research Letters</span>, 47(14), e2020GL088503.
     <span class="pub-links"><a href="https://doi.org/10.1029/2020GL088503" target="_blank">Full Text</a>.</span>
