@@ -82,8 +82,8 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     <span class="pub-num">86.</span>
     <span class="mentee">Huang, Y.</span>§, <span class="me">Wang, C.</span>*, &amp; Wang, Z.-H. (2026). 
     Enhanced representation of hydrological processes in urban climate modeling: A multi-city global assessment.
-    <span class="pub-title">Urban Climate</span>, in press.
-    <!-- <span class="pub-links"><a href="https://doi.org/10.1029/2026GL122048" target="_blank">Full Text</a>.</span> -->
+    <span class="pub-title">Urban Climate</span>, 67, 102908.
+    <span class="pub-links"><a href="https://doi.org/10.1016/j.uclim.2026.102908" target="_blank">Full Text</a>.</span>
   </div>
 </div>
 
