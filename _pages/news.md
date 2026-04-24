@@ -40,6 +40,15 @@ author_profile: true
 <!-- 2026 -->
 
   <div class="news-item">
+    <div class="news-date">2026-04-22</div>
+    <div class="news-body">
+      <strong>[New Publication]</strong> Our new paper on multi-city assessment of the ASLUM-Hydro model, "<a href="https://doi.org/10.1016/j.uclim.2026.102908" target="_blank">Enhanced representation of hydrological processes in urban climate modeling: 
+      A multi-city global assessment</a>", 
+      is published in <em>Urban Climate</em> (IF: 6.9). This work was led by Ph.D. student Yuqi Huang. Congratulations, Yuqi!
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2026-04-14</div>
     <div class="news-body">
       <strong>[New Publication]</strong> Our new paper on modeled urban surface runoff intercomparison, "<a href="https://doi.org/10.1029/2026GL122048" target="_blank">Surface runoff discrepancy in Urban-PLUMBER land surface models</a>", 
