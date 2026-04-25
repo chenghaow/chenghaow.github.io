@@ -22,7 +22,7 @@ author_profile: false   # keeps the right sidebar (or true)
         <strong>Office Tel:</strong> (405) 325-4353
       </p>
       <p class="person-links">  
-        <a href="{{ '/files/lab member CVs/CV - Chenghao Wang - 2025-09.pdf' | relative_url }}">Curriculum Vitae</a>
+        <a href="{{ '/files/lab member CVs/CV - Chenghao Wang - 2026-04.pdf' | relative_url }}">Curriculum Vitae</a>
       </p>
       <p class="person-links"> 
         <strong>Profiles:</strong>
