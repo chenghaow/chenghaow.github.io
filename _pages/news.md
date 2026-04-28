@@ -20,6 +20,16 @@ author_profile: true
 
 
   <div class="news-item">
+    <div class="news-date">2026-04-27</div>
+    <div class="news-body">
+      <strong>[Conference Presentations]</strong> The SURF Lab will be attending the JpGU-AGU Joint Meeting 2026 in Chiba, Japan (May 24–29, 2026). You can meet Yuqi Huang at the following presentation:
+        <ul>
+          <li> <a href="https://confit.atlas.jp/guide/event/jpgu2026/session/OV1G4MF4/tables?dytAhudQJr" target="_blank">Modeling nature-based solutions in a single-layer urban canopy model coupled with Noah-MP</a> (Poster) — Presenter: Yuqi Huang; Friday (May 29) 17:15-19:00, Poster Hall.</li>
+        </ul>
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2026-03-13</div>
     <div class="news-body">
       <strong>[Conference Presentations]</strong> The SURF Lab will be attending the European Geosciences Union (EGU) General Assembly 2026 in Vienna, Austria (May 3–8, 2026). You can meet us (virtually) at the following sessions and presentations:
