@@ -18,6 +18,15 @@ author_profile: true
     </div>
   </div> -->
 
+  <div class="news-item">
+    <div class="news-date">2026-04-28</div>
+    <div class="news-body">
+      <strong>[Conference Presentations]</strong> The SURF Lab will be attending the 2026 IEEE Conference on Computational Imaging Using Synthetic Apertures (CISA) in Albany, NY (May 26–29, 2026). You can meet Dr. Wang at the following keynote presentation:
+        <ul>
+          <li> <a href="https://cisa-conference.org/program/" target="_blank">Remote sensing in urban climate: From global patterns to process-based understanding</a> (Keynote) — Presenter: Chenghao Wang; Friday (May 29) 16:05-17:05, University at Albany.</li>
+        </ul>
+    </div>
+  </div>
 
   <div class="news-item">
     <div class="news-date">2026-04-27</div>
