@@ -38,8 +38,14 @@ author_profile: true
     </div>
   </div>
 
+<!-- conference activities (live) above this line -->
+
+<div class="news-year">2026</div>
+<hr class="news-sep">
+<!-- 2026 -->
+
   <div class="news-item">
-    <div class="news-date">2026-03-13</div>
+    <div class="news-date">2026-05-02</div>
     <div class="news-body">
       <strong>[Conference Presentations]</strong> The SURF Lab will be attending the European Geosciences Union (EGU) General Assembly 2026 in Vienna, Austria (May 3–8, 2026). You can meet us (virtually) at the following sessions and presentations:
         <ul>
@@ -51,12 +57,6 @@ author_profile: true
         </ul>
     </div>
   </div>
-
-<!-- conference activities (live) above this line -->
-
-<div class="news-year">2026</div>
-<hr class="news-sep">
-<!-- 2026 -->
 
   <div class="news-item">
     <div class="news-date">2026-04-22</div>
