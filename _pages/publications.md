@@ -79,6 +79,16 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <div class="pub">
   <div class="pub-line">
+    <span class="pub-num">87.</span>
+    <span class="me">Wang, C.</span>*, <span class="mentee">Huang, Y.</span>§, Miller, D. L., Katz, D. S. W., &amp; Ghosh, A. K. (2026). 
+    Analytical view factors in urban canopy models with trees: Model development and case study in Brooklyn, New York City.
+    <span class="pub-title">Building and Environment</span>, 114710, in press.
+    <span class="pub-links"><a href="https://doi.org/10.1016/j.buildenv.2026.114710" target="_blank">Full Text</a>.</span>
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-line">
     <span class="pub-num">86.</span>
     <span class="mentee">Huang, Y.</span>§, <span class="me">Wang, C.</span>*, &amp; Wang, Z.-H. (2026). 
     Enhanced representation of hydrological processes in urban climate modeling: A multi-city global assessment.
