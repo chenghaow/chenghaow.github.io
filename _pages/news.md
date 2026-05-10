@@ -78,7 +78,7 @@ author_profile: true
   <div class="news-item">
     <div class="news-date">2026-04-06</div>
     <div class="news-body">
-      <strong>[Accomplishment]</strong> Yuqi Huang received the School of Meteorology Douglas Lilly Award for Best Ph.D. Publication. Congratulations, Yuqi!
+      <strong>[Accomplishment]</strong> Yuqi Huang received the School of Meteorology Douglas Lilly Award for Best Ph.D. Publication and the Douglas K. Lilly Award in Climate Scholarship. Congratulations, Yuqi!
     </div>
   </div>
 
