@@ -82,7 +82,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     <span class="pub-num">87.</span>
     <span class="me">Wang, C.</span>*, <span class="mentee">Huang, Y.</span>§, Miller, D. L., Katz, D. S. W., &amp; Ghosh, A. K. (2026). 
     Analytical view factors in urban canopy models with trees: Model development and case study in Brooklyn, New York City.
-    <span class="pub-title">Building and Environment</span>, 114710, in press.
+    <span class="pub-title">Building and Environment</span>, 300, 114710.
     <span class="pub-links"><a href="https://doi.org/10.1016/j.buildenv.2026.114710" target="_blank">Full Text</a>.</span>
   </div>
 </div>
