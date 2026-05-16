@@ -45,6 +45,15 @@ author_profile: true
 <!-- 2026 -->
 
   <div class="news-item">
+    <div class="news-date">2026-05-15</div>
+    <div class="news-body">
+      <strong>[New Publication]</strong> Our new paper on the urban canopy model development, "<a href="https://doi.org/10.1016/j.buildenv.2026.114710" target="_blank">Analytical view factors in urban canopy models with trees: 
+      Model development and case study in Brooklyn, New York City</a>", 
+      is published in <em>Building and Environment</em> (IF: 7.6).
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2026-05-02</div>
     <div class="news-body">
       <strong>[Conference Presentations]</strong> The SURF Lab will be attending the European Geosciences Union (EGU) General Assembly 2026 in Vienna, Austria (May 3–8, 2026). You can meet us (virtually) at the following sessions and presentations:
