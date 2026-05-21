@@ -79,6 +79,16 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <div class="pub">
   <div class="pub-line">
+    <span class="pub-num">88.</span>
+    <span class="mentee">Thompson, L.</span>§, <span class="me">Wang, C.</span>*, &amp; Lu, M. (2026). 
+    Contrasting patterns in urban energy and emission scaling.
+    <span class="pub-title">Environmental Research Letters</span>, in press.
+    <!-- <span class="pub-links"><a href="https://doi.org/10.1016/j.buildenv.2026.114710" target="_blank">Full Text</a>.</span> -->
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-line">
     <span class="pub-num">87.</span>
     <span class="me">Wang, C.</span>*, <span class="mentee">Huang, Y.</span>§, Miller, D. L., Katz, D. S. W., &amp; Ghosh, A. K. (2026). 
     Analytical view factors in urban canopy models with trees: Model development and case study in Brooklyn, New York City.
