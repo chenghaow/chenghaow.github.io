@@ -83,7 +83,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     <span class="mentee">Thompson, L.</span>§, <span class="me">Wang, C.</span>*, &amp; Lu, M. (2026). 
     Contrasting patterns in urban energy and emission scaling.
     <span class="pub-title">Environmental Research Letters</span>, in press.
-    <!-- <span class="pub-links"><a href="https://doi.org/10.1016/j.buildenv.2026.114710" target="_blank">Full Text</a>.</span> -->
+    <span class="pub-links"><a href="https://doi.org/10.1088/1748-9326/ae71ed" target="_blank">Full Text</a>.</span>
   </div>
 </div>
 
