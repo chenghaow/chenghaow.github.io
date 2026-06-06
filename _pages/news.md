@@ -19,7 +19,42 @@ author_profile: true
   </div> -->
 
   <div class="news-item">
-    <div class="news-date">2026-04-28</div>
+    <div class="news-date">2026-06-06</div>
+    <div class="news-body">
+      <strong>[Conference Presentations]</strong> The SURF Lab will be attending the 2026 Pan-GLASS (Global Land-Atmosphere System Studies Panel) Conference in Stuttgart, Germany (July 6–9, 2026). You can meet Dr. Wang at the following presentation:
+        <ul>
+          <li> <a href="https://www.gewexevents.org/meetings/glass2026/" target="_blank">Representing urban water–energy coupling with explicit vegetation in land surface models: From process understanding to coupled regional simulations</a> (Poster) — Presenter: Chenghao Wang; Monday–Tuesday (July 6–7) Matterhorn 2.</li>
+        </ul>
+    </div>
+  </div>
+
+
+  <div class="news-item">
+    <div class="news-date">2026-06-06</div>
+    <div class="news-body">
+      <strong>[Conference Presentations]</strong> The SURF Lab will be attending the Joint MPAS/WRF Users Workshop 2026 in Boulder, CO (June 22–26, 2026). You can meet Yuqi Huang to learn more about our recent model developement efforts at the following presentation:
+        <ul>
+          <li> <a href="https://www.mmm.ucar.edu/events/133496/agenda" target="_blank">Integrating nature-based solutions into WRF-SLUCM for enhanced urban hydrometeorological simulations</a> (Poster) — Presenter: Yuqi Huang; Wednesday (June 24) 14:30-17:00, North Bay Auditorium.</li>
+        </ul>
+    </div>
+  </div>
+
+
+<!-- conference activities (live) above this line -->
+
+<div class="news-year">2026</div>
+<hr class="news-sep">
+<!-- 2026 -->
+
+  <div class="news-item">
+    <div class="news-date">2025-06-02</div>
+    <div class="news-body">
+      <strong>[Accomplishment]</strong> Yuqi Huang recently received the Graduate College Robberson Travel Grant. Congratulations, Yuqi!
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">2026-05-20</div>
     <div class="news-body">
       <strong>[Conference Presentations]</strong> The SURF Lab will be attending the 2026 IEEE Conference on Computational Imaging Using Synthetic Apertures (CISA) in Albany, NY (May 26–29, 2026). You can meet Dr. Wang at the following keynote presentation:
         <ul>
@@ -29,7 +64,7 @@ author_profile: true
   </div>
 
   <div class="news-item">
-    <div class="news-date">2026-04-27</div>
+    <div class="news-date">2026-05-20</div>
     <div class="news-body">
       <strong>[Conference Presentations]</strong> The SURF Lab will be attending the JpGU-AGU Joint Meeting 2026 in Chiba, Japan (May 24–29, 2026). You can meet Yuqi Huang at the following presentation:
         <ul>
@@ -37,12 +72,6 @@ author_profile: true
         </ul>
     </div>
   </div>
-
-<!-- conference activities (live) above this line -->
-
-<div class="news-year">2026</div>
-<hr class="news-sep">
-<!-- 2026 -->
 
   <div class="news-item">
     <div class="news-date">2026-05-15</div>

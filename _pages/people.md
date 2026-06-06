@@ -6,7 +6,7 @@ author_profile: false   # keeps the right sidebar (or true)
 ---
 
 <p class="people-toc">
-  <a href="#pi">Lab PI</a> · <a href="#current">Current Lab Members (8)</a> · <a href="#alumni">Alumni (7)</a>
+  <a href="#pi">Lab PI</a> · <a href="#current">Current Lab Members (7)</a> · <a href="#alumni">Alumni (8)</a>
 </p>
 
 <h2 id="pi">PI</h2>
