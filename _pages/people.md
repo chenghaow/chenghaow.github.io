@@ -291,19 +291,24 @@ author_profile: false   # keeps the right sidebar (or true)
   </article>
 
 
+  <!-- Duplicate <article class="person">…</article> for more members -->
 
+</div>
+
+<h2 id="alumni">Alumni</h2>
+<div class="people-list">
 
 <!-- Person -->
   <article class="person">
     <img class="person-photo" src="{{ '/images/portraits/Liam_Thompson.JPG' | relative_url }}" alt="Liam Thompson">
     <div>
       <h3 class="person-name">Liam Thompson</h3>
-      <p class="person-meta">Undergraduate Student in Meteorology & Environmental Sustainability, Mathematics (minor), Sustainable Energy Systems (certificate), University of Oklahoma</p>
+      <p class="person-meta">Undergraduate Student in Meteorology & Environmental Sustainability, Sustainable Energy Systems (certificate), University of Oklahoma</p>
       <p class="person-links">
         <strong>Email:</strong> <a href="mailto:Liam.c.thompson-1@ou.edu">Liam.c.thompson-1@ou.edu</a>
       </p>
       <p class="person-links">
-        <a href="/files/lab member CVs/Liam_Thompson_CV_2025-08.pdf">Curriculum Vitae</a>
+        <a href="/files/lab member CVs/Liam_Thompson_CV_2026-05.pdf">Curriculum Vitae</a>
       </p>
       <p class="person-links"> 
         <strong>Profile:</strong>
@@ -325,13 +330,6 @@ author_profile: false   # keeps the right sidebar (or true)
     </div>
   </article>
 
-
-  <!-- Duplicate <article class="person">…</article> for more members -->
-
-</div>
-
-<h2 id="alumni">Alumni</h2>
-<div class="people-list">
 
 <!-- Person -->
   <article class="person">
