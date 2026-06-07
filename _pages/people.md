@@ -190,7 +190,7 @@ author_profile: false   # keeps the right sidebar (or true)
     <img class="person-photo" src="{{ '/images/portraits/Jessica_Leffel.jpg' | relative_url }}" alt="Jessica Leffel">
     <div>
       <h3 class="person-name">Jessica Leffel</h3>
-      <p class="person-meta">M.S. student in Meteorology, University of Oklahoma</p>
+      <p class="person-meta">Ph.D. student in Meteorology, University of Oklahoma</p>
       <p class="person-links">
         <strong>Email:</strong> <a href="mailto:jessica.leffel@ou.edu">jessica.leffel@ou.edu</a>
       </p>
@@ -201,7 +201,9 @@ author_profile: false   # keeps the right sidebar (or true)
         <strong>Office:</strong> NWC 5115
       </p>      
       <p>
-        Jessica is currently a M.S. student in the School of Meteorology at OU. Prior to coming to OU, 
+        Jessica is currently a Ph.D. student in the School of Meteorology at OU. She completed her 
+        M.S. degree in Atmospheric Science in the SURF Lab and has continued her graduate studies 
+        as a doctoral student in the group. Prior to coming to OU, 
         Jessica graduated from Barrett the Honors College at Arizona State University 
         with a bachelor’s degree in Meteorology-Climatology. Her previous research analyzed 
         the relationship between tropospheric ozone pollution and synoptic conditions 

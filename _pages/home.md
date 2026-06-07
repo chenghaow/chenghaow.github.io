@@ -117,6 +117,27 @@ Department of Geography and Environmental Sustainability (DGES), and degree prog
 </style>
 
 <div class="gallery-simple">
+
+  <div class="fig">
+    <img src="{{ '/images/photos/202604.jpg' | relative_url }}" alt="Lab gathering 2026">
+    <div class="fig-cap">Lab Gathering (Apr 2026)</div>
+  </div>
+
+  <div class="fig">
+    <img src="{{ '/images/photos/202602.jpg' | relative_url }}" alt="MIST installing">
+    <div class="fig-cap">Installing weather stations (Feb 2026)</div>
+  </div>
+
+  <div class="fig">
+    <img src="{{ '/images/photos/202512-02.jpg' | relative_url }}" alt="AGU 2025">
+    <div class="fig-cap">AGU Annual Meeting (Dec 2025)</div>
+  </div>
+
+  <div class="fig">
+    <img src="{{ '/images/photos/202512-01.png' | relative_url }}" alt="Holiday party 2025">
+    <div class="fig-cap">Holiday party (Dec 2025)</div>
+  </div>
+
   <div class="fig">
     <img src="{{ '/images/photos/202509.jpg' | relative_url }}" alt="Field experiment">
     <div class="fig-cap">Field experiment (Sep 2025)</div>
@@ -128,7 +149,7 @@ Department of Geography and Environmental Sustainability (DGES), and degree prog
   </div>
 
   <div class="fig">
-    <img src="{{ '/images/photos/202408.jpg' | relative_url }}" alt="Lab gathering">
+    <img src="{{ '/images/photos/202408.jpg' | relative_url }}" alt="Lab gathering 2024">
     <div class="fig-cap">Lab Gathering (Aug 2024)</div>
   </div>
 
