@@ -49,7 +49,7 @@ author_profile: true
   <div class="news-item">
     <div class="news-date">2026-06-10</div>
     <div class="news-body">
-      <strong>[New Publication]</strong> Our new paper on urban scaling laws, "<a href="https://doi.org/10.1016/j.uclim.2026.102908" target="_blank">Contrasting patterns in urban energy and emission scaling</a>", 
+      <strong>[New Publication]</strong> Our new paper on urban scaling laws, "<a href="https://doi.org/10.1088/1748-9326/ae71ed" target="_blank">Contrasting patterns in urban energy and emission scaling</a>", 
       is published in <em>Environmental Research Letters</em> (IF: 5.6). 
       This work was led by undergraduate student Liam Thompson. Congratulations, Liam!
     </div>
@@ -59,6 +59,13 @@ author_profile: true
     <div class="news-date">2025-06-02</div>
     <div class="news-body">
       <strong>[Accomplishment]</strong> Yuqi Huang recently received the Graduate College Robberson Travel Grant. Congratulations, Yuqi!
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">2025-05-27</div>
+    <div class="news-body">
+      <strong>[Accomplishment]</strong> Jessica Leffel successfully defended her M.S. thesis. Congratulations, Jessica!
     </div>
   </div>
 
