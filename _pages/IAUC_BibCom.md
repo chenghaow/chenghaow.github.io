@@ -38,7 +38,7 @@ author_profile: false   # keeps the right sidebar (or true)
 
 The **Bibliography Committee** is one of the [committees](https://urban-climate.org/current-board/) of the [International Association for Urban Climate (IAUC)](https://urban-climate.org/), an international organization that seeks membership from those with scientific, scholarly, and technical interests and responsibilities in the broad field of urban climate.  
 
-The main objective of the IAUC Bibliography Committee is to regularly review research advances in all aspects of urban climate and deliver them to the international community via IAUC Newsletters. A history of the committee can be found [here](https://urban-climate.org/bibliography/). As a global team of **19 committee members** from different countries, we currently cover **over 100 peer-reviewed journals** in our database.  
+The main objective of the IAUC Bibliography Committee is to regularly review research advances in all aspects of urban climate and deliver them to the international community via IAUC Newsletters. A history of the committee can be found [here](https://urban-climate.org/bibliography/). As a global team of **18 committee members** from different countries, we currently cover **over 100 peer-reviewed journals** in our database.  
 
 The full searchable bibliography database, which contains more than 13,000 records from 1996 to the present, is publicly available [here](https://www.zotero.org/groups/5250413/iaucbibliography/library).  
 
@@ -183,15 +183,6 @@ The full searchable bibliography database, which contains more than 13,000 recor
 </div>
 
 <div class="member-card">
-  <img src="/images/bibcom_members/ShreyaBanerjee.jpg" alt="Shreya Banerjee headshot">
-  <div class="member-info">
-    <h3><a href="https://research.iitj.ac.in/researcher/shreya-banerjee">Shreya Banerjee</a></h3>
-    <p>Indian Institute of Technology Jodhpur, India</p>
-    <p><em>Term: 2020–present</em></p>
-  </div>
-</div>
-
-<div class="member-card">
   <img src="/images/bibcom_members/SurabhiMehrotra.JPG" alt="Surabhi Mehrotra headshot">
   <div class="member-info">
     <h3><a href="https://www.linkedin.com/in/namrata-dhamankar-2b0a8b10/">Surabhi Mehrotra</a></h3>
@@ -219,6 +210,16 @@ The full searchable bibliography database, which contains more than 13,000 recor
 </div>
 
 ## Past Committee Members (term end date after Dec 2020)
+
+<div class="member-card">
+  <img src="/images/bibcom_members/ShreyaBanerjee.jpg" alt="Shreya Banerjee headshot">
+  <div class="member-info">
+    <h3><a href="https://research.iitj.ac.in/researcher/shreya-banerjee">Shreya Banerjee</a></h3>
+    <p>Indian Institute of Technology Jodhpur, India</p>
+    <p><em>Term: 2020–2026</em></p>
+  </div>
+</div>
+
 <div class="member-card">
   <img src="/images/bibcom_members/AnsarKhan.jpg" alt="Ansar Khan headshot">
   <div class="member-info">
