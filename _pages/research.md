@@ -65,7 +65,7 @@ author_profile: true
 
 <h2>Funding Support</h2>
 
-<p>SURF Lab’s research has been supported by ~$16.9 million in funding from multiple agencies:</p>
+<p>SURF Lab’s research has been supported by ~$16.9 million in funding from federal agencies, foundations, professional organizations, and the University of Oklahoma. We are grateful to our sponsors and collaborators for their continued support.</p>
 
 <p style="text-align:center;">
   <img src="/images/grant-logos.png" alt="Funding agency logos" style="max-width:100%; height:auto;">
