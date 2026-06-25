@@ -82,7 +82,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     <span class="pub-num">89.</span>
     Wang, Y., Wang, Z.-H., <span class="mentee">Hou, H.</span>§, <span class="me">Wang, C.</span>*, &amp; Xia, T. (2026). 
     Characterizing causal urban climate networks of major cities in China.
-    <span class="pub-title">Sustainable Cities and Society</span>, 107636, in press.
+    <span class="pub-title">Sustainable Cities and Society</span>, 148, 107636.
     <span class="pub-links"><a href="https://doi.org/10.1016/j.scs.2026.107636" target="_blank">Full Text</a>.</span>
   </div>
 </div>

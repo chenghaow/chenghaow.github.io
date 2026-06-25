@@ -47,6 +47,14 @@ author_profile: true
 <!-- 2026 -->
 
   <div class="news-item">
+    <div class="news-date">2026-06-24</div>
+    <div class="news-body">
+      <strong>[New Publication]</strong> Our new paper on urban climate causal networks, "<a href="https://doi.org/10.1016/j.scs.2026.107636" target="_blank">Characterizing causal urban climate networks of major cities in China</a>", 
+      is published in <em>Sustainable Cities and Society</em> (IF: 13.3).
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2026-06-10</div>
     <div class="news-body">
       <strong>[New Publication]</strong> Our new paper on urban scaling laws, "<a href="https://doi.org/10.1088/1748-9326/ae71ed" target="_blank">Contrasting patterns in urban energy and emission scaling</a>", 
