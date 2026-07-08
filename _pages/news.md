@@ -18,8 +18,23 @@ author_profile: true
     </div>
   </div> -->
 
+
+<!-- conference activities (live) above this line -->
+
+<div class="news-year">2026</div>
+<hr class="news-sep">
+<!-- 2026 -->
+
   <div class="news-item">
-    <div class="news-date">2026-06-06</div>
+    <div class="news-date">2026-07-08</div>
+    <div class="news-body">
+      <strong>[New Publication]</strong> Our new paper on reservoir sediment organic carbon mineralization, "<a href="https://doi.org/10.1016/j.watres.2026.126413" target="_blank">Elevated hydrostatic pressure promotes organic carbon mineralization in reservoir sediments</a>", 
+      is published in <em>Water Research</em> (IF: 12.8).
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">2026-07-02</div>
     <div class="news-body">
       <strong>[Conference Presentations]</strong> The SURF Lab will be attending the 2026 Pan-GLASS (Global Land-Atmosphere System Studies Panel) Conference in Stuttgart, Germany (July 6–9, 2026). You can meet Dr. Wang at the following presentation:
         <ul>
@@ -27,24 +42,6 @@ author_profile: true
         </ul>
     </div>
   </div>
-
-
-  <div class="news-item">
-    <div class="news-date">2026-06-06</div>
-    <div class="news-body">
-      <strong>[Conference Presentations]</strong> The SURF Lab will be attending the Joint MPAS/WRF Users Workshop 2026 in Boulder, CO (June 22–26, 2026). You can meet Yuqi Huang to learn more about our recent model developement efforts at the following presentation:
-        <ul>
-          <li> <a href="https://www.mmm.ucar.edu/events/133496/agenda" target="_blank">Integrating nature-based solutions into WRF-SLUCM for enhanced urban hydrometeorological simulations</a> (Poster) — Presenter: Yuqi Huang; Wednesday (June 24) 14:30-17:00, North Bay Auditorium.</li>
-        </ul>
-    </div>
-  </div>
-
-
-<!-- conference activities (live) above this line -->
-
-<div class="news-year">2026</div>
-<hr class="news-sep">
-<!-- 2026 -->
 
   <div class="news-item">
     <div class="news-date">2026-06-24</div>
@@ -54,6 +51,16 @@ author_profile: true
     </div>
   </div>
 
+  <div class="news-item">
+    <div class="news-date">2026-06-20</div>
+    <div class="news-body">
+      <strong>[Conference Presentations]</strong> The SURF Lab will be attending the Joint MPAS/WRF Users Workshop 2026 in Boulder, CO (June 22–26, 2026). You can meet Yuqi Huang to learn more about our recent model developement efforts at the following presentation:
+        <ul>
+          <li> <a href="https://www.mmm.ucar.edu/events/133496/agenda" target="_blank">Integrating nature-based solutions into WRF-SLUCM for enhanced urban hydrometeorological simulations</a> (Poster) — Presenter: Yuqi Huang; Wednesday (June 24) 14:30-17:00, North Bay Auditorium.</li>
+        </ul>
+    </div>
+  </div>
+  
   <div class="news-item">
     <div class="news-date">2026-06-10</div>
     <div class="news-body">
