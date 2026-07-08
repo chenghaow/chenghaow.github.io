@@ -77,6 +77,19 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 </div>
 -->
 
+92.	Feron, S., Cordero, R. R.*, Damiani, A., Schultz, K., Wang, C., Ouyang, Z., Giardini, F., Redondas, A., & Beaulieu, A. (2026). Major intensification of fire weather across Southern Europe in recent decades. Scientific Reports, in press.
+
+
+<div class="pub">
+  <div class="pub-line">
+    <span class="pub-num">92.</span>
+    Feron, S., Cordero, R. R.*, Damiani, A., Schultz, K., <span class="me">Wang, C.</span>, Ouyang, Z., Giardini, F., Redondas, A., &amp; Beaulieu, A. (2026). 
+    Major intensification of fire weather across Southern Europe in recent decades. 
+    <span class="pub-title">Scientific Reports</span>, in press.
+    <!-- <span class="pub-links"><a href="https://doi.org/10.1029/2026JD047402" target="_blank">Full Text</a>.</span> -->
+  </div>
+</div>
+
 <div class="pub">
   <div class="pub-line">
     <span class="pub-num">91.</span>
