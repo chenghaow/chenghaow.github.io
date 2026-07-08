@@ -79,8 +79,28 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <div class="pub">
   <div class="pub-line">
+    <span class="pub-num">91.</span>
+    Li, Y.*, <span class="me">Wang, C.</span>, &amp; Xiao, S. (2026). 
+    Dynamic filtering in Lagrangian model-based moisture source–receptor diagnostics. 
+    <span class="pub-title">Journal of Geophysical Research: Atmospheres</span>, in press.
+    <span class="pub-links"><a href="https://doi.org/10.1029/2026JD047402" target="_blank">Full Text</a>.</span>
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-line">
+    <span class="pub-num">90.</span>
+    Zhang, Y., Xiao, S.*, Liu, D., Yang, W.*, Cao, H., Liu, J., <span class="me">Wang, C.</span>, Zhu, L., Li, S., Lai, S., &amp; Xia, X. (2026). 
+    Elevated hydrostatic pressure promotes organic carbon mineralization in reservoir sediments.
+    <span class="pub-title">Water Research</span>, 304, 126413.
+    <span class="pub-links"><a href="https://doi.org/10.1016/j.watres.2026.126413" target="_blank">Full Text</a>.</span>
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-line">
     <span class="pub-num">89.</span>
-    Wang, Y., Wang, Z.-H., <span class="mentee">Hou, H.</span>§, <span class="me">Wang, C.</span>*, &amp; Xia, T. (2026). 
+    Wang, Y., Wang, Z.-H.*, <span class="mentee">Hou, H.</span>§, <span class="me">Wang, C.</span>, &amp; Xia, T. (2026). 
     Characterizing causal urban climate networks of major cities in China.
     <span class="pub-title">Sustainable Cities and Society</span>, 148, 107636.
     <span class="pub-links"><a href="https://doi.org/10.1016/j.scs.2026.107636" target="_blank">Full Text</a>.</span>
