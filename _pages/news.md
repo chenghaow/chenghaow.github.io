@@ -26,6 +26,17 @@ author_profile: true
 <!-- 2026 -->
 
   <div class="news-item">
+    <div class="news-date">2026-07-09</div>
+    <div class="news-body">
+      <strong>[Call for Papers]</strong> We are organizing the following two sessions at the American Geophysical Union (AGU) 2026 Annual Meeting in San Francisco, CA (Dec 7–11, 2026). Please consider submitting relevant work to our sessions by August 5, 2026.
+        <ul>
+          <li> GC023 - Advancing Representation of Urban Processes and Dynamics in Models Across Scales <a href="https://agu.confex.com/agu/agu26/prelim.cgi/Session/280093" target="_blank">(Link)</a></li>
+          <li> A011 - Advances in Next-Generation Hindcasting, Nowcasting, and Forecasting of Atmospheric Pollutants <a href="https://agu.confex.com/agu/agu26/prelim.cgi/Session/281478" target="_blank">(Link)</a></li>
+        </ul>
+    </div>
+  </div> 
+
+  <div class="news-item">
     <div class="news-date">2026-07-08</div>
     <div class="news-body">
       <strong>[New Publication]</strong> Our new paper on reservoir sediment organic carbon mineralization, "<a href="https://doi.org/10.1016/j.watres.2026.126413" target="_blank">Elevated hydrostatic pressure promotes organic carbon mineralization in reservoir sediments</a>", 
