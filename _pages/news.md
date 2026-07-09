@@ -36,6 +36,13 @@ author_profile: true
   <div class="news-item">
     <div class="news-date">2026-07-02</div>
     <div class="news-body">
+      <strong>[Call for Papers]</strong> We are organizing a Special Issue "<a href="https://www.sciencedirect.com/special-issue/335005/urban-sustainability-through-multisectoral-land-use-policy" target="_blank">Urban Sustainability through Multisectoral Land Use Policy</a>" with the journal <a href="https://www.mdpi.com/journal/remotesensing" target="_blank">Land Use Policy</a>. The submission deadline is <strong>November 30, 2027</strong>.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">2026-07-02</div>
+    <div class="news-body">
       <strong>[Conference Presentations]</strong> The SURF Lab will be attending the 2026 Pan-GLASS (Global Land-Atmosphere System Studies Panel) Conference in Stuttgart, Germany (July 6–9, 2026). You can meet Dr. Wang at the following presentation:
         <ul>
           <li> <a href="https://www.gewexevents.org/meetings/glass2026/" target="_blank">Representing urban water–energy coupling with explicit vegetation in land surface models: From process understanding to coupled regional simulations</a> (Poster) — Presenter: Chenghao Wang; Monday–Tuesday (July 6–7) Matterhorn 2.</li>
