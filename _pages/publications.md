@@ -92,7 +92,7 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
     <span class="pub-num">91.</span>
     Li, Y.*, <span class="me">Wang, C.</span>, &amp; Xiao, S. (2026). 
     Dynamic filtering in Lagrangian model-based moisture source–receptor diagnostics. 
-    <span class="pub-title">Journal of Geophysical Research: Atmospheres</span>, in press.
+    <span class="pub-title">Journal of Geophysical Research: Atmospheres</span>, 131(14), e2026JD047402.
     <span class="pub-links"><a href="https://doi.org/10.1029/2026JD047402" target="_blank">Full Text</a>.</span>
   </div>
 </div>
