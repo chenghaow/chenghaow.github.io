@@ -26,6 +26,14 @@ author_profile: true
 <!-- 2026 -->
 
   <div class="news-item">
+    <div class="news-date">2026-07-17</div>
+    <div class="news-body">
+      <strong>[New Publication]</strong> Our new paper on the development of Lagrangian moisture tracking models, "<a href="https://doi.org/10.1029/2026JD047402" target="_blank">Dynamic filtering in Lagrangian model-based moisture source–receptor diagnostics</a>", 
+      is published in <em>Journal of Geophysical Research: Atmospheres</em> (IF: 3.8).
+    </div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">2026-07-09</div>
     <div class="news-body">
       <strong>[Call for Papers]</strong> We are organizing the following two sessions at the American Geophysical Union (AGU) 2026 Annual Meeting in San Francisco, CA (Dec 7–11, 2026). Please consider submitting relevant work to our sessions by August 5, 2026.
