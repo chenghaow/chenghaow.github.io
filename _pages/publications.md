@@ -79,11 +79,22 @@ You can also find our articles on [Dr. Wang's Google Scholar profile]({{site.aut
 
 <div class="pub">
   <div class="pub-line">
+    <span class="pub-num">93.</span>
+    <span class="me">Wang, C.</span>*, Tang, W., He, C., Guenther, A., Garland, R. M., Hu, X.-M., Tong, D., 
+    Gurney, K. R., Granier, C., McDonald, B. C., &amp; Andrade, M. F. (2026). 
+    High-resolution emission source mapping: A bottleneck for understanding urban climate and air quality. 
+    <span class="pub-title">Environmental Research Letters</span>, in press.
+    <!-- <span class="pub-links"><a href="https://doi.org/*****" target="_blank">Full Text</a>.</span> -->
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-line">
     <span class="pub-num">92.</span>
     Feron, S., Cordero, R. R.*, Damiani, A., Schultz, K., <span class="me">Wang, C.</span>, Ouyang, Z., Giardini, F., Redondas, A., &amp; Beaulieu, A. (2026). 
     Major intensification of fire weather across Southern Europe in recent decades. 
     <span class="pub-title">Scientific Reports</span>, in press.
-    <!-- <span class="pub-links"><a href="https://doi.org/10.1029/2026JD047402" target="_blank">Full Text</a>.</span> -->
+    <!-- <span class="pub-links"><a href="https://doi.org/*****" target="_blank">Full Text</a>.</span> -->
   </div>
 </div>
 
